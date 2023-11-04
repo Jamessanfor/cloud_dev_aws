@@ -1,0 +1,5773 @@
+2023-11-04 03:17:56,381 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-04 03:17:56,520 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "9b2c3ac2-23d7-487e-89d2-3eb112fe1139",
+    "widgetId": "da0a48b2-61a2-4ef5-a53b-1bb7ace2010f",
+    "owner": "Henry Hops",
+    "label": "LKEETSJNT",
+    "description": "ARRCDCUGXEMAVWOUNXEGRIILDBEXRDJKPKKEXBDELCXVCJVKPDIH",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "462"
+        },
+        {
+            "name": "width",
+            "value": "997"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "7.52"
+        },
+        {
+            "name": "vendor",
+            "value": ""
+        },
+        {
+            "name": "note",
+            "value": "DEEVBXNWPBFPZERVBJZMOPSWKNHEHYGCGLKMKVAEKWDGWCADGDELWHMZUUQPSJHAMAEDWHSMHS"
+        }
+    ]
+}
+
+2023-11-04 03:17:56,737 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "9b2c3ac2-23d7-487e-89d2-3eb112fe1139",
+    "widgetId": "da0a48b2-61a2-4ef5-a53b-1bb7ace2010f",
+    "owner": "Henry Hops",
+    "label": "LKEETSJNT",
+    "description": "ARRCDCUGXEMAVWOUNXEGRIILDBEXRDJKPKKEXBDELCXVCJVKPDIH",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "462"
+        },
+        {
+            "name": "width",
+            "value": "997"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "7.52"
+        },
+        {
+            "name": "vendor",
+            "value": ""
+        },
+        {
+            "name": "note",
+            "value": "DEEVBXNWPBFPZERVBJZMOPSWKNHEHYGCGLKMKVAEKWDGWCADGDELWHMZUUQPSJHAMAEDWHSMHS"
+        }
+    ]
+}
+
+2023-11-04 03:17:56,802 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "c32e7da6-fa29-48c7-98b4-9a302a8ece77",
+    "widgetId": "cd17f5fc-44c3-47b8-a051-d377d247a16e",
+    "owner": "Mary Matthews",
+    "label": "",
+    "description": "SJUAEZGWVNALVAHUBEPVVAEANFSNMMEKZSJEIPXZDHAUUOTMJIYVGAAQGLLPEEFFEKDXAMCLKH",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "vendor",
+            "value": "F"
+        }
+    ]
+}
+
+2023-11-04 03:17:56,908 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "c32e7da6-fa29-48c7-98b4-9a302a8ece77",
+    "widgetId": "cd17f5fc-44c3-47b8-a051-d377d247a16e",
+    "owner": "Mary Matthews",
+    "label": "",
+    "description": "SJUAEZGWVNALVAHUBEPVVAEANFSNMMEKZSJEIPXZDHAUUOTMJIYVGAAQGLLPEEFFEKDXAMCLKH",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "vendor",
+            "value": "F"
+        }
+    ]
+}
+
+2023-11-04 03:17:56,982 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "0b4c023c-245e-4ce7-a400-a21027a94878",
+    "widgetId": "288b09e2-aab8-412e-9779-c8d5fc6893d3",
+    "owner": "Henry Hops",
+    "label": "BAL",
+    "description": "BKDGSOVUWEFUJOPROBAPTFRTOPFARGYNHQVUEPKXPMXSJRGOYJDTXNQOCUFRFRSZDCZFXGBWNXINXDECOVWVYTYCMVVCWXV",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "872"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        }
+    ]
+}
+
+2023-11-04 03:17:57,125 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "0b4c023c-245e-4ce7-a400-a21027a94878",
+    "widgetId": "288b09e2-aab8-412e-9779-c8d5fc6893d3",
+    "owner": "Henry Hops",
+    "label": "BAL",
+    "description": "BKDGSOVUWEFUJOPROBAPTFRTOPFARGYNHQVUEPKXPMXSJRGOYJDTXNQOCUFRFRSZDCZFXGBWNXINXDECOVWVYTYCMVVCWXV",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "872"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        }
+    ]
+}
+
+2023-11-04 03:17:57,200 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "a9bfd903-885e-489c-ada8-5c853d28801b",
+    "widgetId": "1949f3f7-9746-4e79-96a4-10877367898d",
+    "owner": "Sue Smith",
+    "label": "",
+    "description": "PFJJGADOEKJDWQLUUTFRAWUEPHXXPECQAVUHVRCMNMNRXJRNLEPVGH",
+    "otherAttributes": [
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "618"
+        },
+        {
+            "name": "rating",
+            "value": "1.2923048"
+        },
+        {
+            "name": "quantity",
+            "value": "234"
+        }
+    ]
+}
+
+2023-11-04 03:17:57,369 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "a9bfd903-885e-489c-ada8-5c853d28801b",
+    "widgetId": "1949f3f7-9746-4e79-96a4-10877367898d",
+    "owner": "Sue Smith",
+    "label": "",
+    "description": "PFJJGADOEKJDWQLUUTFRAWUEPHXXPECQAVUHVRCMNMNRXJRNLEPVGH",
+    "otherAttributes": [
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "618"
+        },
+        {
+            "name": "rating",
+            "value": "1.2923048"
+        },
+        {
+            "name": "quantity",
+            "value": "234"
+        }
+    ]
+}
+
+2023-11-04 03:17:57,433 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "82253816-637d-4582-a3b6-528230ffaf14",
+    "widgetId": "e1eebb77-b80b-4ef4-a45a-35ad62f34b6a",
+    "owner": "Mary Matthews",
+    "label": "LFGNQYV",
+    "description": "PPWJQ",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "orange"
+        },
+        {
+            "name": "size",
+            "value": "728"
+        },
+        {
+            "name": "width",
+            "value": "232"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "vendor",
+            "value": "EW"
+        }
+    ]
+}
+
+2023-11-04 03:17:57,511 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "2a8b4331-fad5-45a2-9d2e-32f9418bdfbf",
+    "widgetId": "3f84daa8-9fee-4887-a658-d76f4d629809",
+    "owner": "Henry Hops",
+    "label": "EPE",
+    "description": "CVAUGFWMHFOLRJVSHTEGZQMQEUFFRSXUQSFJTHTDEYLBTTEGSNTRMJGYNYQITOYARSSVKN",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "99"
+        },
+        {
+            "name": "height",
+            "value": "385"
+        },
+        {
+            "name": "width",
+            "value": "481"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "0.16019255"
+        },
+        {
+            "name": "note",
+            "value": "XCUETFZLCKRVHWYXCGKXIELJHPUNAEBDKMALPDGVDQVKPOQNRJIXGBFQSVORGMVVBXUWFKASLNBXMGKMBMEJINAKSQGRCEWBUSGBEDFQXVQHCQCUTOOGERPXYXRJSWZRZPXAXAQDUVQRPYDNEIRVBCXCQRNUNEFBDDCFKDAMLXFHMIKMEFHZZECULXRNTWKQXSFCXCKCQCDVDGAIGMUNYRVPEOHDYKLVCRTRSFHRGCUSOIGTJICEUHXJHVGRDMNTIAAXCSPMKCYBMFCJOIBSWMDXTBAQOVNAMUAF"
+        }
+    ]
+}
+
+2023-11-04 03:17:57,618 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "2a8b4331-fad5-45a2-9d2e-32f9418bdfbf",
+    "widgetId": "3f84daa8-9fee-4887-a658-d76f4d629809",
+    "owner": "Henry Hops",
+    "label": "EPE",
+    "description": "CVAUGFWMHFOLRJVSHTEGZQMQEUFFRSXUQSFJTHTDEYLBTTEGSNTRMJGYNYQITOYARSSVKN",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "99"
+        },
+        {
+            "name": "height",
+            "value": "385"
+        },
+        {
+            "name": "width",
+            "value": "481"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "0.16019255"
+        },
+        {
+            "name": "note",
+            "value": "XCUETFZLCKRVHWYXCGKXIELJHPUNAEBDKMALPDGVDQVKPOQNRJIXGBFQSVORGMVVBXUWFKASLNBXMGKMBMEJINAKSQGRCEWBUSGBEDFQXVQHCQCUTOOGERPXYXRJSWZRZPXAXAQDUVQRPYDNEIRVBCXCQRNUNEFBDDCFKDAMLXFHMIKMEFHZZECULXRNTWKQXSFCXCKCQCDVDGAIGMUNYRVPEOHDYKLVCRTRSFHRGCUSOIGTJICEUHXJHVGRDMNTIAAXCSPMKCYBMFCJOIBSWMDXTBAQOVNAMUAF"
+        }
+    ]
+}
+
+2023-11-04 03:17:57,679 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "c5f75584-e33e-4ad3-921f-b3c6b03cd14a",
+    "widgetId": "3ec19a51-eb86-4961-bcca-e9d964723123",
+    "owner": "Sue Smith",
+    "label": "BQFKIDW",
+    "description": "CSAQSNGDZJMCWHVKSWDWDEJDTTJZOLSDMMDFEOXPAZKMRAGGMAOI",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "blue"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "322"
+        },
+        {
+            "name": "quantity",
+            "value": "438"
+        }
+    ]
+}
+
+2023-11-04 03:17:57,847 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "c5f75584-e33e-4ad3-921f-b3c6b03cd14a",
+    "widgetId": "3ec19a51-eb86-4961-bcca-e9d964723123",
+    "owner": "Sue Smith",
+    "label": "BQFKIDW",
+    "description": "CSAQSNGDZJMCWHVKSWDWDEJDTTJZOLSDMMDFEOXPAZKMRAGGMAOI",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "blue"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "322"
+        },
+        {
+            "name": "quantity",
+            "value": "438"
+        }
+    ]
+}
+
+2023-11-04 03:17:57,921 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "5f686c45-7493-4254-b4c7-8846ed1aeca2",
+    "widgetId": "574a324f-88b3-4320-bab9-b1390e302d18",
+    "owner": "John Jones",
+    "label": "UYLVP",
+    "description": "MJBHRXXDOCRDBYGCNJTLIP",
+    "otherAttributes": [
+        {
+            "name": "width",
+            "value": "325"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        }
+    ]
+}
+
+2023-11-04 03:17:58,013 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "5f686c45-7493-4254-b4c7-8846ed1aeca2",
+    "widgetId": "574a324f-88b3-4320-bab9-b1390e302d18",
+    "owner": "John Jones",
+    "label": "UYLVP",
+    "description": "MJBHRXXDOCRDBYGCNJTLIP",
+    "otherAttributes": [
+        {
+            "name": "width",
+            "value": "325"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        }
+    ]
+}
+
+2023-11-04 03:17:58,077 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "874aa23f-36bc-4f1c-9971-74afe91bfe8c",
+    "widgetId": "80a27490-1012-48c5-bc9a-cb22ece8304c",
+    "owner": "Henry Hops",
+    "label": "MJKC",
+    "description": "VZNURFANTNSWNXUCOQEZJMWPYFKLBEKZPRIETLWRXNHBNBQIFNGEANHUOPVTCRVRNLJAULZTSUBBUHPOQWDGSVT",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "436"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "41.91"
+        },
+        {
+            "name": "vendor",
+            "value": "QPKB"
+        },
+        {
+            "name": "note",
+            "value": "XWJRTJMATFWYGFZQWAZXTULNETHNGVRRFKJRCTATDJRSKHUZQHBOVFWZTFWAQOPQDAQHMXZWQLBMDAJTKKJMVZTDCEUJOZCIJPFPHFPDCYXAUHJMHUVMMAUEWITJJSSPPYLIVHEUAMKPWSDLZOAOUMIJXGLECPFQXFETVSHLQCZQQBBOP"
+        }
+    ]
+}
+
+2023-11-04 03:17:58,174 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "874aa23f-36bc-4f1c-9971-74afe91bfe8c",
+    "widgetId": "80a27490-1012-48c5-bc9a-cb22ece8304c",
+    "owner": "Henry Hops",
+    "label": "MJKC",
+    "description": "VZNURFANTNSWNXUCOQEZJMWPYFKLBEKZPRIETLWRXNHBNBQIFNGEANHUOPVTCRVRNLJAULZTSUBBUHPOQWDGSVT",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "436"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "41.91"
+        },
+        {
+            "name": "vendor",
+            "value": "QPKB"
+        },
+        {
+            "name": "note",
+            "value": "XWJRTJMATFWYGFZQWAZXTULNETHNGVRRFKJRCTATDJRSKHUZQHBOVFWZTFWAQOPQDAQHMXZWQLBMDAJTKKJMVZTDCEUJOZCIJPFPHFPDCYXAUHJMHUVMMAUEWITJJSSPPYLIVHEUAMKPWSDLZOAOUMIJXGLECPFQXFETVSHLQCZQQBBOP"
+        }
+    ]
+}
+
+2023-11-04 03:17:58,240 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "e28070eb-f4da-4cbb-9ebf-804a6b84c23c",
+    "widgetId": "b53c9c1d-c9f6-466e-887a-dc5b514550ea",
+    "owner": "John Jones",
+    "label": "BEQC",
+    "description": "TAB",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "171"
+        },
+        {
+            "name": "width",
+            "value": "517"
+        },
+        {
+            "name": "length",
+            "value": "381"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "2.8754864"
+        }
+    ]
+}
+
+2023-11-04 03:17:58,304 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "e28070eb-f4da-4cbb-9ebf-804a6b84c23c",
+    "widgetId": "b53c9c1d-c9f6-466e-887a-dc5b514550ea",
+    "owner": "John Jones",
+    "label": "BEQC",
+    "description": "TAB",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "171"
+        },
+        {
+            "name": "width",
+            "value": "517"
+        },
+        {
+            "name": "length",
+            "value": "381"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "2.8754864"
+        }
+    ]
+}
+
+2023-11-04 03:17:58,369 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "6eaa06fe-7afe-450e-8268-eba84c35b344",
+    "widgetId": "a0e5e7ef-a7c4-48bf-93c3-1a86e870d1c9",
+    "owner": "Sue Smith",
+    "label": "Q",
+    "description": "BZVHOUWBQZHGTHNDFGUQVGCPNJKAJLO",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "orange"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "859"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "308"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "52.03"
+        },
+        {
+            "name": "vendor",
+            "value": ""
+        },
+        {
+            "name": "note",
+            "value": "IFUSMGGQUXREKWDZYYHEAGVIOAXDVYBVZVMLSAWLZIGQTJCBRK"
+        }
+    ]
+}
+
+2023-11-04 03:17:58,516 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "6eaa06fe-7afe-450e-8268-eba84c35b344",
+    "widgetId": "a0e5e7ef-a7c4-48bf-93c3-1a86e870d1c9",
+    "owner": "Sue Smith",
+    "label": "Q",
+    "description": "BZVHOUWBQZHGTHNDFGUQVGCPNJKAJLO",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "orange"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "859"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "308"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "52.03"
+        },
+        {
+            "name": "vendor",
+            "value": ""
+        },
+        {
+            "name": "note",
+            "value": "IFUSMGGQUXREKWDZYYHEAGVIOAXDVYBVZVMLSAWLZIGQTJCBRK"
+        }
+    ]
+}
+
+2023-11-04 03:17:58,589 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "2df5ae7b-689c-4d46-90c0-a6856bd5f096",
+    "widgetId": "dd9aaa72-5b69-4fa8-89d5-edc702514a0a",
+    "owner": "John Jones",
+    "label": "NRYXHRR",
+    "description": "FKDYOKUGTNSDOWRVRUYMCKGSRBVTCWCLGCLNSPLGXUWJNPMVMKLISQOAWYCLTHLKZLIHXY",
+    "otherAttributes": [
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "256"
+        },
+        {
+            "name": "rating",
+            "value": "0.3242275"
+        },
+        {
+            "name": "price",
+            "value": "60.63"
+        },
+        {
+            "name": "quantity",
+            "value": "555"
+        }
+    ]
+}
+
+2023-11-04 03:17:58,674 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "2df5ae7b-689c-4d46-90c0-a6856bd5f096",
+    "widgetId": "dd9aaa72-5b69-4fa8-89d5-edc702514a0a",
+    "owner": "John Jones",
+    "label": "NRYXHRR",
+    "description": "FKDYOKUGTNSDOWRVRUYMCKGSRBVTCWCLGCLNSPLGXUWJNPMVMKLISQOAWYCLTHLKZLIHXY",
+    "otherAttributes": [
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "256"
+        },
+        {
+            "name": "rating",
+            "value": "0.3242275"
+        },
+        {
+            "name": "price",
+            "value": "60.63"
+        },
+        {
+            "name": "quantity",
+            "value": "555"
+        }
+    ]
+}
+
+2023-11-04 03:17:58,735 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "d38df167-cd79-4ea9-901c-a3784c175e91",
+    "widgetId": "b2d4ccd9-f8aa-40b2-91c1-9a5dd6de4e11",
+    "owner": "Mary Matthews",
+    "description": "WPSHNBZADPZCNF",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size",
+            "value": "774"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "563"
+        },
+        {
+            "name": "width",
+            "value": "758"
+        },
+        {
+            "name": "length",
+            "value": "693"
+        },
+        {
+            "name": "price",
+            "value": "25.63"
+        },
+        {
+            "name": "vendor",
+            "value": "BVHEILIITERL"
+        },
+        {
+            "name": "note",
+            "value": "RQAUUKDSXFBTYWUELGPHFWTNUKKXHESIDBHHCUAIMANSZVMLHAOGCXRNXOWFOZFMXWECDTTBSSGQGWVDFJEWXHHWPEDMEWHCUQRJJF"
+        }
+    ]
+}
+
+2023-11-04 03:17:58,805 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "delete",
+    "requestId": "1b658605-ac00-43ea-a782-118ffbca3105",
+    "widgetId": "a8344ef1-b8e5-47e1-a9ed-218b9b8f40a0",
+    "owner": "Mary Matthews"
+}
+
+2023-11-04 03:17:58,865 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "9cd65c74-8072-4a0d-9a57-106b8c9dbeaf",
+    "widgetId": "ecd4188c-f905-483b-ae6b-a6b6920fe98d",
+    "owner": "Henry Hops",
+    "label": "X",
+    "description": "EXAZFTMXKAFENVSGKGLLHSQHNEUNCOLNGM",
+    "otherAttributes": [
+        {
+            "name": "height",
+            "value": "291"
+        },
+        {
+            "name": "width",
+            "value": "659"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "687"
+        },
+        {
+            "name": "quantity",
+            "value": "476"
+        },
+        {
+            "name": "vendor",
+            "value": "DBIXNORHZDLOXIYSQTN"
+        }
+    ]
+}
+
+2023-11-04 03:17:58,945 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "9cd65c74-8072-4a0d-9a57-106b8c9dbeaf",
+    "widgetId": "ecd4188c-f905-483b-ae6b-a6b6920fe98d",
+    "owner": "Henry Hops",
+    "label": "X",
+    "description": "EXAZFTMXKAFENVSGKGLLHSQHNEUNCOLNGM",
+    "otherAttributes": [
+        {
+            "name": "height",
+            "value": "291"
+        },
+        {
+            "name": "width",
+            "value": "659"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "687"
+        },
+        {
+            "name": "quantity",
+            "value": "476"
+        },
+        {
+            "name": "vendor",
+            "value": "DBIXNORHZDLOXIYSQTN"
+        }
+    ]
+}
+
+2023-11-04 03:17:59,003 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "78ccec90-81f0-4ff3-81e5-900114ef4ed7",
+    "widgetId": "4b0658c2-4543-4920-8030-4d0984036e51",
+    "owner": "John Jones",
+    "label": "",
+    "description": "KFXHQABBXACHFLMEQTWWARMWGFVUWECGLZODCKVFRANBCONSXDKIDSWVTBVBKJBLGNDQYFAXUIUROXNXVZWPXJRBF",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "blue"
+        },
+        {
+            "name": "size",
+            "value": "568"
+        },
+        {
+            "name": "length",
+            "value": "960"
+        },
+        {
+            "name": "quantity",
+            "value": "31"
+        }
+    ]
+}
+
+2023-11-04 03:17:59,089 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "78ccec90-81f0-4ff3-81e5-900114ef4ed7",
+    "widgetId": "4b0658c2-4543-4920-8030-4d0984036e51",
+    "owner": "John Jones",
+    "label": "",
+    "description": "KFXHQABBXACHFLMEQTWWARMWGFVUWECGLZODCKVFRANBCONSXDKIDSWVTBVBKJBLGNDQYFAXUIUROXNXVZWPXJRBF",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "blue"
+        },
+        {
+            "name": "size",
+            "value": "568"
+        },
+        {
+            "name": "length",
+            "value": "960"
+        },
+        {
+            "name": "quantity",
+            "value": "31"
+        }
+    ]
+}
+
+2023-11-04 03:17:59,175 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "0e452371-4de9-493f-846d-2886ed7f83b5",
+    "widgetId": "24172532-33eb-4e8b-83c4-be222bd057e3",
+    "owner": "Mary Matthews",
+    "label": "TRBUFLA",
+    "description": "SJJMEHTZHTNNFGKIVVESGRSYWXZHIQNWVTNJHPNQTARAIMYOPGNRAKLBFOABBHZYZYGBPZUNNRYVAACWAUQIZJRUHLVPN",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "179"
+        },
+        {
+            "name": "length",
+            "value": "421"
+        },
+        {
+            "name": "price",
+            "value": "32.42"
+        },
+        {
+            "name": "vendor",
+            "value": "WGNIOX"
+        }
+    ]
+}
+
+2023-11-04 03:17:59,267 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "0e452371-4de9-493f-846d-2886ed7f83b5",
+    "widgetId": "24172532-33eb-4e8b-83c4-be222bd057e3",
+    "owner": "Mary Matthews",
+    "label": "TRBUFLA",
+    "description": "SJJMEHTZHTNNFGKIVVESGRSYWXZHIQNWVTNJHPNQTARAIMYOPGNRAKLBFOABBHZYZYGBPZUNNRYVAACWAUQIZJRUHLVPN",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "179"
+        },
+        {
+            "name": "length",
+            "value": "421"
+        },
+        {
+            "name": "price",
+            "value": "32.42"
+        },
+        {
+            "name": "vendor",
+            "value": "WGNIOX"
+        }
+    ]
+}
+
+2023-11-04 03:17:59,322 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "0e94db73-f4de-4382-bf2e-97df9af8767c",
+    "widgetId": "5f21d3a0-d195-49ff-9cf3-94c6be90288c",
+    "owner": "Sue Smith",
+    "label": "",
+    "description": "ELJMZZNPTDIWWUZPSRORNEMRLOBUIUESPIVPHOGOPBYZROZODHTDKM",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "928"
+        },
+        {
+            "name": "height",
+            "value": "736"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "628"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "27.29"
+        },
+        {
+            "name": "quantity",
+            "value": "180"
+        },
+        {
+            "name": "vendor",
+            "value": "JLNNCAWZEPNVTRMYKW"
+        }
+    ]
+}
+
+2023-11-04 03:17:59,407 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "0e94db73-f4de-4382-bf2e-97df9af8767c",
+    "widgetId": "5f21d3a0-d195-49ff-9cf3-94c6be90288c",
+    "owner": "Sue Smith",
+    "label": "",
+    "description": "ELJMZZNPTDIWWUZPSRORNEMRLOBUIUESPIVPHOGOPBYZROZODHTDKM",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "928"
+        },
+        {
+            "name": "height",
+            "value": "736"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "628"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "27.29"
+        },
+        {
+            "name": "quantity",
+            "value": "180"
+        },
+        {
+            "name": "vendor",
+            "value": "JLNNCAWZEPNVTRMYKW"
+        }
+    ]
+}
+
+2023-11-04 03:17:59,471 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "66f662e1-19d5-455e-b5bf-324e726423cd",
+    "widgetId": "102da764-88aa-4cb4-ad61-27b255061252",
+    "owner": "Mary Matthews",
+    "label": "DD",
+    "description": "DWTDNTOMBTUVUHQFVILDMZKSLVYHGQBEMPUYYZGBCVWBYDKQGITNUKLQJTASMDVNYDPKYLPRUQCXYZNXCBQFQOSQSQQMKV",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "blue"
+        },
+        {
+            "name": "size",
+            "value": "550"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "603"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "189"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "4.4034224"
+        },
+        {
+            "name": "note",
+            "value": "NMBWWYGDGBGQEODTMWTGFPHOIWMSSHTKEIEQSOHUSQHDGYJUGHNJQSMNFSFUDZGRDWAGVVFXJIPSFHM"
+        }
+    ]
+}
+
+2023-11-04 03:17:59,590 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "66f662e1-19d5-455e-b5bf-324e726423cd",
+    "widgetId": "102da764-88aa-4cb4-ad61-27b255061252",
+    "owner": "Mary Matthews",
+    "label": "DD",
+    "description": "DWTDNTOMBTUVUHQFVILDMZKSLVYHGQBEMPUYYZGBCVWBYDKQGITNUKLQJTASMDVNYDPKYLPRUQCXYZNXCBQFQOSQSQQMKV",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "blue"
+        },
+        {
+            "name": "size",
+            "value": "550"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "603"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "189"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "4.4034224"
+        },
+        {
+            "name": "note",
+            "value": "NMBWWYGDGBGQEODTMWTGFPHOIWMSSHTKEIEQSOHUSQHDGYJUGHNJQSMNFSFUDZGRDWAGVVFXJIPSFHM"
+        }
+    ]
+}
+
+2023-11-04 03:17:59,663 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "31048574-eccb-48ff-b2e0-0d80ac6a4350",
+    "widgetId": "acc4e58d-02d5-4aab-bd81-8455c4fb8db1",
+    "owner": "Mary Matthews",
+    "label": "",
+    "description": "PZHJGETXXHO",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "182"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "14.85"
+        },
+        {
+            "name": "vendor",
+            "value": "MGNXDYSLVWYOUHKOLYE"
+        }
+    ]
+}
+
+2023-11-04 03:17:59,785 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "31048574-eccb-48ff-b2e0-0d80ac6a4350",
+    "widgetId": "acc4e58d-02d5-4aab-bd81-8455c4fb8db1",
+    "owner": "Mary Matthews",
+    "label": "",
+    "description": "PZHJGETXXHO",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "182"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "14.85"
+        },
+        {
+            "name": "vendor",
+            "value": "MGNXDYSLVWYOUHKOLYE"
+        }
+    ]
+}
+
+2023-11-04 03:17:59,861 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "374433a7-67dc-47c7-8b08-70e22bf35c2a",
+    "widgetId": "13782db6-b3d3-4200-aebb-4ec2c941f578",
+    "owner": "Mary Matthews",
+    "description": "U",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "pink"
+        },
+        {
+            "name": "size",
+            "value": "800"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "41"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "691"
+        },
+        {
+            "name": "note",
+            "value": "QLABZPOXYISRWEMTNYHAEURSJBBQXQBICOVFPUSQARSRJBQZBHZQLWIZKCADGLQYUJJFVWPRKMVIKEDUQEORXNMOTMQILYNQSPEULOSEVQC"
+        }
+    ]
+}
+
+2023-11-04 03:17:59,944 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "43b7ab99-13fa-4402-b2cd-adcff8e066e5",
+    "widgetId": "764f820a-7134-4434-a3fe-dab95d7d041f",
+    "owner": "Mary Matthews",
+    "description": "CADVKRRGOQPUUOQXKXADDGOTLITJMCVINSMWDUNVVQZIQKTJXICGBLXXBXOYDKT",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size",
+            "value": "439"
+        },
+        {
+            "name": "height",
+            "value": "565"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "3.4269671"
+        },
+        {
+            "name": "price",
+            "value": "94.65"
+        },
+        {
+            "name": "quantity",
+            "value": "382"
+        },
+        {
+            "name": "note",
+            "value": "VSHYTZCRMJXLFQDKJTANSRZBYYUKWVNEOKQRHQFHLXWEZOQOGFMOFEVWXFZJACEAYJWDHVUPIIGLKQWYSUQLNEMIYUOCDE"
+        }
+    ]
+}
+
+2023-11-04 03:18:00,016 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "4b5eccac-9821-4521-a388-afad079ebd51",
+    "widgetId": "764f820a-7134-4434-a3fe-dab95d7d041f",
+    "owner": "Mary Matthews",
+    "label": "QBTCWZEXE",
+    "description": "UIMWIWSPWJPLPMWHPABMFBNPQQKXO",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "326"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        }
+    ]
+}
+
+2023-11-04 03:18:00,174 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "4b5eccac-9821-4521-a388-afad079ebd51",
+    "widgetId": "764f820a-7134-4434-a3fe-dab95d7d041f",
+    "owner": "Mary Matthews",
+    "label": "QBTCWZEXE",
+    "description": "UIMWIWSPWJPLPMWHPABMFBNPQQKXO",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "326"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        }
+    ]
+}
+
+2023-11-04 03:18:00,242 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "delete",
+    "requestId": "0734df6c-eb39-4fe4-bb20-088ddc7141d6",
+    "widgetId": "dd9aaa72-5b69-4fa8-89d5-edc702514a0a",
+    "owner": "John Jones"
+}
+
+2023-11-04 03:18:00,304 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "85e80111-9b70-4ea7-b57b-c4bf9ab06693",
+    "widgetId": "0ba38457-b188-46c8-bcf2-6d020b326f67",
+    "owner": "Henry Hops",
+    "label": "A",
+    "description": "BPFDGCJCWLSZKGNONSFKQJILRTCXOAFHNWXKKUANA",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "846"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "25.24"
+        },
+        {
+            "name": "vendor",
+            "value": "OBPTYUNR"
+        }
+    ]
+}
+
+2023-11-04 03:18:00,362 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "85e80111-9b70-4ea7-b57b-c4bf9ab06693",
+    "widgetId": "0ba38457-b188-46c8-bcf2-6d020b326f67",
+    "owner": "Henry Hops",
+    "label": "A",
+    "description": "BPFDGCJCWLSZKGNONSFKQJILRTCXOAFHNWXKKUANA",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "846"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "25.24"
+        },
+        {
+            "name": "vendor",
+            "value": "OBPTYUNR"
+        }
+    ]
+}
+
+2023-11-04 03:18:00,433 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "ed71af3f-ef2c-4493-ba06-6741d3d6c099",
+    "widgetId": "1f970cec-4614-49c7-b7d4-41e18e67cee0",
+    "owner": "Sue Smith",
+    "label": "FIOWZC",
+    "description": "SMSOKPVWATRWEARWZZKPWPREYZQBCWVJJHH",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "121"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "688"
+        },
+        {
+            "name": "width",
+            "value": "458"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "quantity",
+            "value": "859"
+        },
+        {
+            "name": "note",
+            "value": "SZSQZFMMWTWLDXCGICUOOKVLBSXGLZKTZOKMBVCGVPOMLRPZGOYCLHTCRCKVWZZAQQDNNQYLXCOKKFEPIVFWTGTIWQRIHEINKRUHDODBRYFSHTXVTOMFRZHDTTUGZXPXLUJXIVGKHCXBVZILRFAWXKKKOAHPRGHFCMAGYZFVZBUKDZADROPDNTZODXAAWVEAGGZHEAAKPIGUDRHWVQPJKIVSERCIPBYUXDMYXJEQTXNNEAKCZNTLCSTDLRKUBCOJTDDSQODRFZBYYWFXJZANITUCNMVADESXUHRGOVTNRITAENGVVXASMJFMFPUJIHOMMOXCUCIXWWJPOZOFLXQLLNRWBCXANHRLVZDLZUAHXBAMPYZRT"
+        }
+    ]
+}
+
+2023-11-04 03:18:00,524 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "ed71af3f-ef2c-4493-ba06-6741d3d6c099",
+    "widgetId": "1f970cec-4614-49c7-b7d4-41e18e67cee0",
+    "owner": "Sue Smith",
+    "label": "FIOWZC",
+    "description": "SMSOKPVWATRWEARWZZKPWPREYZQBCWVJJHH",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "121"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "688"
+        },
+        {
+            "name": "width",
+            "value": "458"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "quantity",
+            "value": "859"
+        },
+        {
+            "name": "note",
+            "value": "SZSQZFMMWTWLDXCGICUOOKVLBSXGLZKTZOKMBVCGVPOMLRPZGOYCLHTCRCKVWZZAQQDNNQYLXCOKKFEPIVFWTGTIWQRIHEINKRUHDODBRYFSHTXVTOMFRZHDTTUGZXPXLUJXIVGKHCXBVZILRFAWXKKKOAHPRGHFCMAGYZFVZBUKDZADROPDNTZODXAAWVEAGGZHEAAKPIGUDRHWVQPJKIVSERCIPBYUXDMYXJEQTXNNEAKCZNTLCSTDLRKUBCOJTDDSQODRFZBYYWFXJZANITUCNMVADESXUHRGOVTNRITAENGVVXASMJFMFPUJIHOMMOXCUCIXWWJPOZOFLXQLLNRWBCXANHRLVZDLZUAHXBAMPYZRT"
+        }
+    ]
+}
+
+2023-11-04 03:18:00,596 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "delete",
+    "requestId": "4fc0b9b9-42af-4e47-b7f1-c12b8bb972ab",
+    "widgetId": "3ec19a51-eb86-4961-bcca-e9d964723123",
+    "owner": "Sue Smith"
+}
+
+2023-11-04 03:18:00,659 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "1934b10a-7e7b-40fb-8425-90e3fdd98401",
+    "widgetId": "6704c2ff-58e3-401e-a320-a41daae4ba63",
+    "owner": "Henry Hops",
+    "label": "",
+    "description": "OGTHIFOXHQGDDHLHVLYWAUWRTOUQGJTLOGOTTFQYKSOQJUIGVPPUJBKNYUQYLZAXRZMTGRDGDKZJJIGEEDJQF",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "580"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "786"
+        },
+        {
+            "name": "width",
+            "value": "142"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "0.067965984"
+        },
+        {
+            "name": "price",
+            "value": "31.65"
+        },
+        {
+            "name": "note",
+            "value": "QZNIILWXKQIDXSAFVRMSRAQGDVZGYGDFNGQAWQKXUQQEAWKVAEBNYWRNGUGFLXFUDNCTYUQFGLXTOJYPVJPSDCWWQOBUBPNJMPTFHTJGGEIIQKNSXBXTWCMVPIMFTOCLERJMTZDPXVQNHAXKGKBEJKCGNXHEJSZVRUBWGXYVNKBMMRUZMEFNFKMCISTEIJWOLXDDEKKNXCCCCRTYWGVDUPHLRJLVTJPZCUHPCEZQIUSZBFQLYORYSZYXCFSAZACORWOGKEVUYYLWOKNMESSTPPHPNMQNPNCVQJMDXOIGJKBDSFQKOALWQMLAMAXXPBHFPVKHQCMKWPMPWMXGYYQLLUNZU"
+        }
+    ]
+}
+
+2023-11-04 03:18:00,804 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "1934b10a-7e7b-40fb-8425-90e3fdd98401",
+    "widgetId": "6704c2ff-58e3-401e-a320-a41daae4ba63",
+    "owner": "Henry Hops",
+    "label": "",
+    "description": "OGTHIFOXHQGDDHLHVLYWAUWRTOUQGJTLOGOTTFQYKSOQJUIGVPPUJBKNYUQYLZAXRZMTGRDGDKZJJIGEEDJQF",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "580"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "786"
+        },
+        {
+            "name": "width",
+            "value": "142"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "0.067965984"
+        },
+        {
+            "name": "price",
+            "value": "31.65"
+        },
+        {
+            "name": "note",
+            "value": "QZNIILWXKQIDXSAFVRMSRAQGDVZGYGDFNGQAWQKXUQQEAWKVAEBNYWRNGUGFLXFUDNCTYUQFGLXTOJYPVJPSDCWWQOBUBPNJMPTFHTJGGEIIQKNSXBXTWCMVPIMFTOCLERJMTZDPXVQNHAXKGKBEJKCGNXHEJSZVRUBWGXYVNKBMMRUZMEFNFKMCISTEIJWOLXDDEKKNXCCCCRTYWGVDUPHLRJLVTJPZCUHPCEZQIUSZBFQLYORYSZYXCFSAZACORWOGKEVUYYLWOKNMESSTPPHPNMQNPNCVQJMDXOIGJKBDSFQKOALWQMLAMAXXPBHFPVKHQCMKWPMPWMXGYYQLLUNZU"
+        }
+    ]
+}
+
+2023-11-04 03:18:00,877 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "52109349-21ed-4241-b3aa-268a46a41dab",
+    "widgetId": "1129720f-269c-466e-b6ad-affcb92e8639",
+    "owner": "Mary Matthews",
+    "label": "GTEQYAK",
+    "description": "LGPXXPTGSMRIDWBJWCSHTGHABBQHOQIHSCXDOASELBATEWMXOIZCVXKBD",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "689"
+        },
+        {
+            "name": "width",
+            "value": "88"
+        },
+        {
+            "name": "rating",
+            "value": "1.7897856"
+        },
+        {
+            "name": "price",
+            "value": "97.79"
+        },
+        {
+            "name": "quantity",
+            "value": "159"
+        }
+    ]
+}
+
+2023-11-04 03:18:00,980 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "52109349-21ed-4241-b3aa-268a46a41dab",
+    "widgetId": "1129720f-269c-466e-b6ad-affcb92e8639",
+    "owner": "Mary Matthews",
+    "label": "GTEQYAK",
+    "description": "LGPXXPTGSMRIDWBJWCSHTGHABBQHOQIHSCXDOASELBATEWMXOIZCVXKBD",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "689"
+        },
+        {
+            "name": "width",
+            "value": "88"
+        },
+        {
+            "name": "rating",
+            "value": "1.7897856"
+        },
+        {
+            "name": "price",
+            "value": "97.79"
+        },
+        {
+            "name": "quantity",
+            "value": "159"
+        }
+    ]
+}
+
+2023-11-04 03:18:01,052 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "e3839c68-5683-49e4-96af-56b5d1cbfcb3",
+    "widgetId": "5301c969-3486-4522-9bd2-ac6a84a2099b",
+    "owner": "Henry Hops",
+    "label": "KTXGOHLQC",
+    "description": "OSTWRJAUHPGQKDLOXNZMDNOFVMIYMIDIDUZWLFOJRCIVBUDWTHZCGSWFTPGLJOMONQV",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "418"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "note",
+            "value": "BDEXTXKOANPPEGOJHWGQTOGANESRVHBB"
+        }
+    ]
+}
+
+2023-11-04 03:18:01,151 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "e3839c68-5683-49e4-96af-56b5d1cbfcb3",
+    "widgetId": "5301c969-3486-4522-9bd2-ac6a84a2099b",
+    "owner": "Henry Hops",
+    "label": "KTXGOHLQC",
+    "description": "OSTWRJAUHPGQKDLOXNZMDNOFVMIYMIDIDUZWLFOJRCIVBUDWTHZCGSWFTPGLJOMONQV",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "418"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "note",
+            "value": "BDEXTXKOANPPEGOJHWGQTOGANESRVHBB"
+        }
+    ]
+}
+
+2023-11-04 03:18:01,223 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "delete",
+    "requestId": "1e85ed34-a808-4950-8b01-f3c1c9dedcfb",
+    "widgetId": "7e8dd4dc-35ad-41e0-8e5c-47b0146c2e53",
+    "owner": "John Jones"
+}
+
+2023-11-04 03:18:01,291 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "e69659bb-3086-4e8d-9c7e-3a9ab9571001",
+    "widgetId": "760531c8-93d2-44f9-9990-2a0d627be3bf",
+    "owner": "Henry Hops",
+    "label": "ECLJCJG",
+    "description": "TXUPUCRKRQPSWRDUQEXPARRHZLZQEMZHEGHVTXNGHKMEJBWDFCOJXCID",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "888"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "522"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "4.954594"
+        },
+        {
+            "name": "price",
+            "value": "42.43"
+        },
+        {
+            "name": "quantity",
+            "value": "392"
+        },
+        {
+            "name": "vendor",
+            "value": "PZCEJTT"
+        }
+    ]
+}
+
+2023-11-04 03:18:01,396 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "e69659bb-3086-4e8d-9c7e-3a9ab9571001",
+    "widgetId": "760531c8-93d2-44f9-9990-2a0d627be3bf",
+    "owner": "Henry Hops",
+    "label": "ECLJCJG",
+    "description": "TXUPUCRKRQPSWRDUQEXPARRHZLZQEMZHEGHVTXNGHKMEJBWDFCOJXCID",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "888"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "522"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "4.954594"
+        },
+        {
+            "name": "price",
+            "value": "42.43"
+        },
+        {
+            "name": "quantity",
+            "value": "392"
+        },
+        {
+            "name": "vendor",
+            "value": "PZCEJTT"
+        }
+    ]
+}
+
+2023-11-04 03:18:01,468 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "af24dec3-5ff5-460c-8e60-6950b2c8e471",
+    "widgetId": "5f21d3a0-d195-49ff-9cf3-94c6be90288c",
+    "owner": "Sue Smith",
+    "description": "XBLZAJQYPUCPJHLQLDYDCLQQLWOOKCNTCXNAHYDPWYPYXBHQKHAMPYXJSAA",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "red"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "60"
+        },
+        {
+            "name": "length",
+            "value": "231"
+        },
+        {
+            "name": "rating",
+            "value": "0.9230226"
+        },
+        {
+            "name": "vendor",
+            "value": "MTZZNIMVZFRDTGS"
+        },
+        {
+            "name": "note",
+            "value": "SEOTUPRYXRKLNQRJQNBSRIEEZLTLHGJQDFNKQYMPXVHJKPSGENPDDGUUQGDDOSXQYJMYPBTFNPPDSTOKVAKEDSOIYRQWDFMWYWDJCENHXIPRKRSOONPWDQLEJWRLZFXNKFXFSGAYVHOEEGSBYHDEBWHCCIPOGWYFWNCKHZXBRMQGMWPMCCTGKHBOSNHYQBVFYG"
+        }
+    ]
+}
+
+2023-11-04 03:18:01,504 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "49d492a4-8ece-4bc9-9b82-281596c8c93b",
+    "widgetId": "02bacacb-4fa2-4598-a2ce-6455b00670d0",
+    "owner": "Sue Smith",
+    "label": "LTNEJEIJ",
+    "description": "FYFLERUCSWVAAIHRQGQECUHDELOTRKDHGBZYVOKJTEZMLWTVMWYOVEIDUJYPUDWNLATPDMCBJVZDMWVNOPJWVV",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "pink"
+        },
+        {
+            "name": "size",
+            "value": "584"
+        },
+        {
+            "name": "height",
+            "value": "843"
+        },
+        {
+            "name": "width",
+            "value": "231"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "194"
+        },
+        {
+            "name": "quantity",
+            "value": "679"
+        }
+    ]
+}
+
+2023-11-04 03:18:01,588 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "49d492a4-8ece-4bc9-9b82-281596c8c93b",
+    "widgetId": "02bacacb-4fa2-4598-a2ce-6455b00670d0",
+    "owner": "Sue Smith",
+    "label": "LTNEJEIJ",
+    "description": "FYFLERUCSWVAAIHRQGQECUHDELOTRKDHGBZYVOKJTEZMLWTVMWYOVEIDUJYPUDWNLATPDMCBJVZDMWVNOPJWVV",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "pink"
+        },
+        {
+            "name": "size",
+            "value": "584"
+        },
+        {
+            "name": "height",
+            "value": "843"
+        },
+        {
+            "name": "width",
+            "value": "231"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "194"
+        },
+        {
+            "name": "quantity",
+            "value": "679"
+        }
+    ]
+}
+
+2023-11-04 03:18:01,666 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "db1bb4df-9ccf-4ac1-9c9d-699f5b9de2ce",
+    "widgetId": "b048bd38-cc35-44ae-894e-ac56035a816c",
+    "owner": "John Jones",
+    "label": "SCKMGSXK",
+    "description": "XINJSLNKQEOYNSBBHQCG",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "754"
+        },
+        {
+            "name": "rating",
+            "value": "2.1914556"
+        },
+        {
+            "name": "quantity",
+            "value": "830"
+        }
+    ]
+}
+
+2023-11-04 03:18:01,775 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "db1bb4df-9ccf-4ac1-9c9d-699f5b9de2ce",
+    "widgetId": "b048bd38-cc35-44ae-894e-ac56035a816c",
+    "owner": "John Jones",
+    "label": "SCKMGSXK",
+    "description": "XINJSLNKQEOYNSBBHQCG",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "754"
+        },
+        {
+            "name": "rating",
+            "value": "2.1914556"
+        },
+        {
+            "name": "quantity",
+            "value": "830"
+        }
+    ]
+}
+
+2023-11-04 03:18:01,841 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "2c217dd6-ea71-4769-803a-38ca97a65b99",
+    "widgetId": "942edbf5-2046-40af-8c50-a96386238347",
+    "owner": "John Jones",
+    "label": "JONUMAB",
+    "description": "WPCNMGYREUMRZDDLFJPDVZPTYJIRNOQDOVLSSMCUOEPZUROLFHACKJRLRSEQ",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "672"
+        },
+        {
+            "name": "length",
+            "value": "706"
+        }
+    ]
+}
+
+2023-11-04 03:18:01,969 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "2c217dd6-ea71-4769-803a-38ca97a65b99",
+    "widgetId": "942edbf5-2046-40af-8c50-a96386238347",
+    "owner": "John Jones",
+    "label": "JONUMAB",
+    "description": "WPCNMGYREUMRZDDLFJPDVZPTYJIRNOQDOVLSSMCUOEPZUROLFHACKJRLRSEQ",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "672"
+        },
+        {
+            "name": "length",
+            "value": "706"
+        }
+    ]
+}
+
+2023-11-04 03:18:02,047 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "93520fed-84fb-4e38-9536-2c8c62b0ddf8",
+    "widgetId": "6341e5d6-3c96-462b-ae76-7fc6b78de40d",
+    "owner": "Henry Hops",
+    "label": "JZZ",
+    "description": "BGVWKCDCZARMBLDLABXANOGAWZGPKGOQHSPWPWFJYCX",
+    "otherAttributes": [
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "967"
+        },
+        {
+            "name": "rating",
+            "value": "3.923511"
+        },
+        {
+            "name": "price",
+            "value": "87.64"
+        },
+        {
+            "name": "quantity",
+            "value": "528"
+        }
+    ]
+}
+
+2023-11-04 03:18:02,174 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "93520fed-84fb-4e38-9536-2c8c62b0ddf8",
+    "widgetId": "6341e5d6-3c96-462b-ae76-7fc6b78de40d",
+    "owner": "Henry Hops",
+    "label": "JZZ",
+    "description": "BGVWKCDCZARMBLDLABXANOGAWZGPKGOQHSPWPWFJYCX",
+    "otherAttributes": [
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "967"
+        },
+        {
+            "name": "rating",
+            "value": "3.923511"
+        },
+        {
+            "name": "price",
+            "value": "87.64"
+        },
+        {
+            "name": "quantity",
+            "value": "528"
+        }
+    ]
+}
+
+2023-11-04 03:18:02,251 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "bcbb06a9-2df1-4cd7-bf11-0dea0736c8ff",
+    "widgetId": "ec6bb68f-cf19-4885-91be-c00e4cb7ce06",
+    "owner": "Sue Smith",
+    "label": "",
+    "description": "OCHYGBEJVLJSGBVKXFYMHEMGOACZPTLEFFKVCYKHLSQKZILB",
+    "otherAttributes": [
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "560"
+        },
+        {
+            "name": "price",
+            "value": "37.12"
+        },
+        {
+            "name": "note",
+            "value": "QHSDIVCBIKOEMBRQTPTSZRIWGMJLSQRPLXCDMRUQKNPYDJCYJJMAWGGQIYLFZQCKVUCKQUGEXKUNLROKBWJVSPMKRHWSSGWKJBYISZHSVRKYSEYXQJIQDYGRIKQCNEBTLRDKPZVJSBJLIIKQRKIFXHEJTIERTGNEYUXIGZUQFXWSFLZZAPYADDYNILFLGKGJXVRIDRSBVCNVNWPFLWOHPGWQCWTYOBNACPLSWCVJAVTZORGPFCEQLCWRQCIZQJEW"
+        }
+    ]
+}
+
+2023-11-04 03:18:02,366 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "bcbb06a9-2df1-4cd7-bf11-0dea0736c8ff",
+    "widgetId": "ec6bb68f-cf19-4885-91be-c00e4cb7ce06",
+    "owner": "Sue Smith",
+    "label": "",
+    "description": "OCHYGBEJVLJSGBVKXFYMHEMGOACZPTLEFFKVCYKHLSQKZILB",
+    "otherAttributes": [
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "560"
+        },
+        {
+            "name": "price",
+            "value": "37.12"
+        },
+        {
+            "name": "note",
+            "value": "QHSDIVCBIKOEMBRQTPTSZRIWGMJLSQRPLXCDMRUQKNPYDJCYJJMAWGGQIYLFZQCKVUCKQUGEXKUNLROKBWJVSPMKRHWSSGWKJBYISZHSVRKYSEYXQJIQDYGRIKQCNEBTLRDKPZVJSBJLIIKQRKIFXHEJTIERTGNEYUXIGZUQFXWSFLZZAPYADDYNILFLGKGJXVRIDRSBVCNVNWPFLWOHPGWQCWTYOBNACPLSWCVJAVTZORGPFCEQLCWRQCIZQJEW"
+        }
+    ]
+}
+
+2023-11-04 03:18:02,432 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "7192619f-156c-43c4-baf8-f2bf4505073d",
+    "widgetId": "3a788408-4284-4dae-961a-897822f6fa55",
+    "owner": "Mary Matthews",
+    "label": "EMJ",
+    "description": "MPQCWPHPYAPBSWAUQOCATHADUKZPPMWBMWIXWBZGCUFKOCQKGTYMNSDFFDROQYVIDWBAAEMSZUDOC",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "569"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "571"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "1.3148227"
+        },
+        {
+            "name": "price",
+            "value": "10.36"
+        },
+        {
+            "name": "quantity",
+            "value": "756"
+        },
+        {
+            "name": "vendor",
+            "value": "GHEBG"
+        },
+        {
+            "name": "note",
+            "value": "VSCNXXJRIKPZULBHLAHPYXUHZNEMYFPVMDGWQQZIOZPFTEQRWBQMGYTKQGACRWLMGWKLHOECAAPFOERCRPDCVCGPACXJERDZVLWYQZRZUQPHDKERODCQMAMMKXFDNHJWXNAAGQCKSRJTQCMRTRWJYMSMNNCXHXIXVQWEWWUZKGPJBZDBTNWUFBHXVLUKTLTGJOBHMHDRFZJTUXEAHIIZIUQPOXPNVMKDXEGEDJSXOITIBLJEIODBPTFH"
+        }
+    ]
+}
+
+2023-11-04 03:18:02,498 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "0d48b65d-c090-4b08-80d3-eebf59bdb969",
+    "widgetId": "78c7e175-8f13-432a-95ef-fc8c55135daa",
+    "owner": "John Jones",
+    "label": "PQ",
+    "description": "HXQACOIX",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "485"
+        }
+    ]
+}
+
+2023-11-04 03:18:02,635 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "0d48b65d-c090-4b08-80d3-eebf59bdb969",
+    "widgetId": "78c7e175-8f13-432a-95ef-fc8c55135daa",
+    "owner": "John Jones",
+    "label": "PQ",
+    "description": "HXQACOIX",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "485"
+        }
+    ]
+}
+
+2023-11-04 03:18:02,706 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "4ee5918b-86f0-4e9a-b7f1-e05096f18824",
+    "widgetId": "437f4751-0533-48b0-9cf1-62d29ffc51b0",
+    "owner": "John Jones",
+    "label": "CQJONG",
+    "description": "H",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "orange"
+        },
+        {
+            "name": "size",
+            "value": "954"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "529"
+        },
+        {
+            "name": "length",
+            "value": "141"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "1.0347056"
+        },
+        {
+            "name": "vendor",
+            "value": "GVXLGV"
+        },
+        {
+            "name": "note",
+            "value": "VQMPTKWJPDBUSDDSLFOCWVTZGTULKTEJVPVZZVBSWSTDIDRKAFZSBTAP"
+        }
+    ]
+}
+
+2023-11-04 03:18:02,779 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "c2ee1e89-b353-4527-b811-4b9b0c9db45d",
+    "widgetId": "6a418405-09e0-4672-b247-55c458a919c9",
+    "owner": "John Jones",
+    "label": "RPFUFTU",
+    "description": "RZMCNDDRB",
+    "otherAttributes": [
+        {
+            "name": "height",
+            "value": "167"
+        },
+        {
+            "name": "width",
+            "value": "849"
+        },
+        {
+            "name": "length",
+            "value": "80"
+        },
+        {
+            "name": "rating",
+            "value": "3.5574713"
+        },
+        {
+            "name": "price",
+            "value": "48.73"
+        },
+        {
+            "name": "note",
+            "value": "DGFIEHIGWSWOEDJCXTMKSEISJKSDKMNUSUG"
+        }
+    ]
+}
+
+2023-11-04 03:18:02,849 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "9b45b960-0eea-48a0-a58e-8318e9c51f63",
+    "widgetId": "b90c587c-c6cd-4a76-89d1-33201392c0d4",
+    "owner": "Mary Matthews",
+    "label": "G",
+    "description": "OTHBKDWYIMSSUZBRUDVPO",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "yellow"
+        },
+        {
+            "name": "size",
+            "value": "276"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "794"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "484"
+        },
+        {
+            "name": "quantity",
+            "value": "697"
+        },
+        {
+            "name": "note",
+            "value": "HIPMVKUHZNFIYRWEUFVKISGYELZDEMCNBHBXRNHDDGJGCZNVKWHSVLCOGGTWDRKGXWTNFTMUFZAJMLLPPXCWPVLXUVKXKIHRPALSIPPMNCUFAGXUDNOWYGTSWNDPQFCJZFUEYQVUMTGDBUHUTXTVYIJQSUMYMGNFMQTQCLWKHRQUFPFUPRSEKSDMIUDTVTIGVMBGEDRCEOUHSEDYMSWLJQNRGBVDNVJJPLUSMLHTVUNNRLBFJJUSRWEJJOXOIQMEIWJULOCGOFPGESJKSVBDINSFSSWJRODEQYAOMSCTPGQTSPVPCIEOOXKQHAANACEKYTAFNFPIICVGWBVPOENKAEERKWWOZSTPHA"
+        }
+    ]
+}
+
+2023-11-04 03:18:02,940 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "9b45b960-0eea-48a0-a58e-8318e9c51f63",
+    "widgetId": "b90c587c-c6cd-4a76-89d1-33201392c0d4",
+    "owner": "Mary Matthews",
+    "label": "G",
+    "description": "OTHBKDWYIMSSUZBRUDVPO",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "yellow"
+        },
+        {
+            "name": "size",
+            "value": "276"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "794"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "484"
+        },
+        {
+            "name": "quantity",
+            "value": "697"
+        },
+        {
+            "name": "note",
+            "value": "HIPMVKUHZNFIYRWEUFVKISGYELZDEMCNBHBXRNHDDGJGCZNVKWHSVLCOGGTWDRKGXWTNFTMUFZAJMLLPPXCWPVLXUVKXKIHRPALSIPPMNCUFAGXUDNOWYGTSWNDPQFCJZFUEYQVUMTGDBUHUTXTVYIJQSUMYMGNFMQTQCLWKHRQUFPFUPRSEKSDMIUDTVTIGVMBGEDRCEOUHSEDYMSWLJQNRGBVDNVJJPLUSMLHTVUNNRLBFJJUSRWEJJOXOIQMEIWJULOCGOFPGESJKSVBDINSFSSWJRODEQYAOMSCTPGQTSPVPCIEOOXKQHAANACEKYTAFNFPIICVGWBVPOENKAEERKWWOZSTPHA"
+        }
+    ]
+}
+
+2023-11-04 03:18:03,014 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "9fb81882-8df0-40f8-bb64-3ce32805aa5d",
+    "widgetId": "b657619f-fd45-4cd8-8777-fad670bb871c",
+    "owner": "Henry Hops",
+    "label": "IBTRFC",
+    "description": "QRHQERUCEWOEXQMIGXCZLNVHLLIXIDNMSGWWGSSLUIZBLCNBYFXSAZUIDKUYDTKPGXBGHN",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        }
+    ]
+}
+
+2023-11-04 03:18:03,129 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "9fb81882-8df0-40f8-bb64-3ce32805aa5d",
+    "widgetId": "b657619f-fd45-4cd8-8777-fad670bb871c",
+    "owner": "Henry Hops",
+    "label": "IBTRFC",
+    "description": "QRHQERUCEWOEXQMIGXCZLNVHLLIXIDNMSGWWGSSLUIZBLCNBYFXSAZUIDKUYDTKPGXBGHN",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        }
+    ]
+}
+
+2023-11-04 03:18:03,236 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "047bf23f-2d2c-4fd4-bbdd-11f6a385cee3",
+    "widgetId": "6a418405-09e0-4672-b247-55c458a919c9",
+    "owner": "John Jones",
+    "label": "RZMCNDDRB",
+    "description": "ZNSIIZTQURUCYULVOPRPLFGQZNAW",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "quantity",
+            "value": "244"
+        }
+    ]
+}
+
+2023-11-04 03:18:03,345 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "047bf23f-2d2c-4fd4-bbdd-11f6a385cee3",
+    "widgetId": "6a418405-09e0-4672-b247-55c458a919c9",
+    "owner": "John Jones",
+    "label": "RZMCNDDRB",
+    "description": "ZNSIIZTQURUCYULVOPRPLFGQZNAW",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "quantity",
+            "value": "244"
+        }
+    ]
+}
+
+2023-11-04 03:18:03,417 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "912d3a0e-c156-4934-adc5-dc8532c1b495",
+    "widgetId": "e1937cd3-1856-47ec-a354-af5b4dae24bf",
+    "owner": "Mary Matthews",
+    "label": "",
+    "description": "YFBLRLPABXILQYOIXWGMMVNFFHNXJKXDGKJIPUWBHSUTOUARGFKPQRIZARDTVQHYXLUPSAPVMQA",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "425"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "4.2016454"
+        },
+        {
+            "name": "price",
+            "value": "68.65"
+        },
+        {
+            "name": "vendor",
+            "value": "L"
+        }
+    ]
+}
+
+2023-11-04 03:18:03,589 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "912d3a0e-c156-4934-adc5-dc8532c1b495",
+    "widgetId": "e1937cd3-1856-47ec-a354-af5b4dae24bf",
+    "owner": "Mary Matthews",
+    "label": "",
+    "description": "YFBLRLPABXILQYOIXWGMMVNFFHNXJKXDGKJIPUWBHSUTOUARGFKPQRIZARDTVQHYXLUPSAPVMQA",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "425"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "4.2016454"
+        },
+        {
+            "name": "price",
+            "value": "68.65"
+        },
+        {
+            "name": "vendor",
+            "value": "L"
+        }
+    ]
+}
+
+2023-11-04 03:18:03,664 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "9f6add8d-c9bc-458d-bd42-0bd3dfcb5e64",
+    "widgetId": "afd4d379-b6e1-4cea-84f1-6e5f2da14f5f",
+    "owner": "John Jones",
+    "label": "NBPONF",
+    "description": "XOZPPSCIURJVFN",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "484"
+        },
+        {
+            "name": "height",
+            "value": "575"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "427"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "vendor",
+            "value": "EZZCGAQOZFNCIYP"
+        },
+        {
+            "name": "note",
+            "value": "FKPKISUJSHFCCRUZRWYTCDKCVDUSIGQJNMSSKQHYQRWCYJTBFXTZDPMDNJJAKBCTZKWWXYOJUYDBXIDAOGFHHLXOVWPFTJHFFHTTBCNGQAKNLFRQPGGEXQJOJOQXHGWHNUXOKYIWRBVGNCSGCZCXUSWQGCUJRZBOMYWCDIUZXEUBDKGAVJKAUSTWCGFSWBLGZUFUGWZCAZNOTBTEPBSULZGPSYDNGSGLIJQVEKLLXMQHHRCKMVVCNGFDMGZPSZTVJVQQEQNCMQZTNEVCOJCDKSDEGGJWIZVOVMMFQOTNJPLFLNYDZOPKKTNFNTAXSXZXBFYDWAYFKPIRUTHHLIXCSLXYONCFUHWQPYZNJACMJYB"
+        }
+    ]
+}
+
+2023-11-04 03:18:03,741 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "ba66d27d-68e2-4ba6-bdb3-97a6069d1b4b",
+    "widgetId": "fe27f398-d61e-444b-9c36-034c3bd6121b",
+    "owner": "John Jones",
+    "label": "CX",
+    "description": "CQGXLFKTRZGBEBLBBFSBPONRBLPVIA",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "917"
+        },
+        {
+            "name": "height",
+            "value": "49"
+        },
+        {
+            "name": "length",
+            "value": "725"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        }
+    ]
+}
+
+2023-11-04 03:18:03,939 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "ba66d27d-68e2-4ba6-bdb3-97a6069d1b4b",
+    "widgetId": "fe27f398-d61e-444b-9c36-034c3bd6121b",
+    "owner": "John Jones",
+    "label": "CX",
+    "description": "CQGXLFKTRZGBEBLBBFSBPONRBLPVIA",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "917"
+        },
+        {
+            "name": "height",
+            "value": "49"
+        },
+        {
+            "name": "length",
+            "value": "725"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        }
+    ]
+}
+
+2023-11-04 03:18:04,011 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "7d61b87e-469d-446a-b9b7-2371903c4f6a",
+    "widgetId": "8aa49147-681a-4344-a922-1a15a6bcf023",
+    "owner": "Mary Matthews",
+    "label": "ZZPLMB",
+    "description": "IJZQVGPUMSYKXNOEZJCGUVCHJELCVFLNQRAJXOXLBVKEQTAURRZNICJCBWGKGQPSJRJVNPSGBAIEPIXRZNL",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size",
+            "value": "905"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "739"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "4.557884"
+        }
+    ]
+}
+
+2023-11-04 03:18:04,103 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "7d61b87e-469d-446a-b9b7-2371903c4f6a",
+    "widgetId": "8aa49147-681a-4344-a922-1a15a6bcf023",
+    "owner": "Mary Matthews",
+    "label": "ZZPLMB",
+    "description": "IJZQVGPUMSYKXNOEZJCGUVCHJELCVFLNQRAJXOXLBVKEQTAURRZNICJCBWGKGQPSJRJVNPSGBAIEPIXRZNL",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size",
+            "value": "905"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "739"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "4.557884"
+        }
+    ]
+}
+
+2023-11-04 03:18:04,294 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "f2fa0ec7-6dea-4044-a70b-a882ff99f42c",
+    "widgetId": "e8b57574-55f3-41c1-8861-ababc98dce54",
+    "owner": "Henry Hops",
+    "label": "XEZ",
+    "description": "TUBTLDJQYCWUCVJJETHGBIHENKMMZJ",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "785"
+        },
+        {
+            "name": "width",
+            "value": "391"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "242"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "1.2791004"
+        },
+        {
+            "name": "vendor",
+            "value": "YJMZULVTKDXG"
+        }
+    ]
+}
+
+2023-11-04 03:18:04,452 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "f2fa0ec7-6dea-4044-a70b-a882ff99f42c",
+    "widgetId": "e8b57574-55f3-41c1-8861-ababc98dce54",
+    "owner": "Henry Hops",
+    "label": "XEZ",
+    "description": "TUBTLDJQYCWUCVJJETHGBIHENKMMZJ",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "785"
+        },
+        {
+            "name": "width",
+            "value": "391"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "242"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "1.2791004"
+        },
+        {
+            "name": "vendor",
+            "value": "YJMZULVTKDXG"
+        }
+    ]
+}
+
+2023-11-04 03:18:04,526 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "440ae23a-315c-45cb-84d5-ebc70bc1dfc7",
+    "widgetId": "1953961d-01bb-4f8c-aa6c-7c8727b6c431",
+    "owner": "John Jones",
+    "label": "N",
+    "description": "RRVVWMTIKHNBCQZYLXDKXRARRHCTEKSAFMJULPJGPHRSWLRJKZWQTIZKE",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "orange"
+        },
+        {
+            "name": "height",
+            "value": "451"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "quantity",
+            "value": "227"
+        },
+        {
+            "name": "vendor",
+            "value": "JVNXPXXHLYY"
+        }
+    ]
+}
+
+2023-11-04 03:18:04,641 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "440ae23a-315c-45cb-84d5-ebc70bc1dfc7",
+    "widgetId": "1953961d-01bb-4f8c-aa6c-7c8727b6c431",
+    "owner": "John Jones",
+    "label": "N",
+    "description": "RRVVWMTIKHNBCQZYLXDKXRARRHCTEKSAFMJULPJGPHRSWLRJKZWQTIZKE",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "orange"
+        },
+        {
+            "name": "height",
+            "value": "451"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "quantity",
+            "value": "227"
+        },
+        {
+            "name": "vendor",
+            "value": "JVNXPXXHLYY"
+        }
+    ]
+}
+
+2023-11-04 03:18:04,702 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "6cd61653-b2be-4c4b-8f0e-0348ac89c096",
+    "widgetId": "afd4d379-b6e1-4cea-84f1-6e5f2da14f5f",
+    "owner": "John Jones",
+    "label": "",
+    "description": "HNDSIUKPSXETIEYTYQTDOXGVRRRVJDZBYKBXKOFXBYKNAPXITIL",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "orange"
+        },
+        {
+            "name": "size",
+            "value": "901"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "777"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "370"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "9.79"
+        },
+        {
+            "name": "vendor",
+            "value": "JQBYDGSBDYD"
+        },
+        {
+            "name": "note",
+            "value": "YZTUZWBNYSORJRXSFSUGNKUQQHVIUZTUYOHLUAZVGOYDQOFHIGNSMORZCZORCDKSKSLMLVFFJRVOYYUTAYDRBFTJXEWACDCWEKEFMFXXZKCGRGQNCZQQLUWDNKIATAXTHVSRPLNMUVFYNCDLQZLPQKCMGAQTOYVGIHTDMKTGVOKFWKTGPIMPKATRJSRRBVFFXZTFLMTESSPKYUEHWLGLWGRPNMHEKILXMOKLMHDVEIKOUZUBLVNWJHCOCHXNCTAKKGHVWBLQORQLEFWTEOCNBWYXDWXJZSQKKWHVROHWQMGISICXEXFOUNVVTCFSDLPRHZLKTTTTXLRHHXBYWBPGWWGGOKMIDXUFTHOAXEBO"
+        }
+    ]
+}
+
+2023-11-04 03:18:04,745 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "1da84252-1b7a-45dd-8e2b-9f9a4819a654",
+    "widgetId": "e88e79a7-bd16-4604-8193-06c30e72d1cd",
+    "owner": "Mary Matthews",
+    "label": "HLJTAJJP",
+    "description": "DBQZWPYZQRVFGGDIQOCQFMXMMQQPBOGEXY",
+    "otherAttributes": [
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "0.6346506"
+        }
+    ]
+}
+
+2023-11-04 03:18:04,859 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "1da84252-1b7a-45dd-8e2b-9f9a4819a654",
+    "widgetId": "e88e79a7-bd16-4604-8193-06c30e72d1cd",
+    "owner": "Mary Matthews",
+    "label": "HLJTAJJP",
+    "description": "DBQZWPYZQRVFGGDIQOCQFMXMMQQPBOGEXY",
+    "otherAttributes": [
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "0.6346506"
+        }
+    ]
+}
+
+2023-11-04 03:18:04,928 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "8b1229c7-fbe8-490e-bfc5-ca6cb8561940",
+    "widgetId": "e8b57574-55f3-41c1-8861-ababc98dce54",
+    "owner": "Henry Hops",
+    "description": "XEZ",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "yellow"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "133"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "17.67"
+        },
+        {
+            "name": "quantity",
+            "value": "11"
+        }
+    ]
+}
+
+2023-11-04 03:18:05,005 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "91b9171c-2cdc-49c4-afb4-15315d9822ee",
+    "widgetId": "c6e1cd25-21a5-4a2c-a386-4db2c961869e",
+    "owner": "Henry Hops",
+    "description": "ZSTKPYQBFBNSCRCAUMBEHKMJVQDECVBNDRTPFSLVTCGRLTHISCSSDSGTGRJUDNQYLWDWWEDBIJJALVCXDQR",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "red"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height",
+            "value": "672"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "413"
+        },
+        {
+            "name": "rating",
+            "value": "0.69106907"
+        },
+        {
+            "name": "price",
+            "value": "24.78"
+        },
+        {
+            "name": "vendor",
+            "value": "UQAGHDOB"
+        }
+    ]
+}
+
+2023-11-04 03:18:05,081 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "66ce1b0f-be18-4455-b268-c046ce2a44b1",
+    "widgetId": "afd4d379-b6e1-4cea-84f1-6e5f2da14f5f",
+    "owner": "John Jones",
+    "label": "HROPN",
+    "description": "JBWTLFBNOEFDURLDXPLVIVSTNAKZFMLNYBXAVBRJKTSZZYDRMNAFPQENAFFSMGSZXIDDTCG",
+    "otherAttributes": [
+        {
+            "name": "width",
+            "value": "49"
+        },
+        {
+            "name": "length",
+            "value": "94"
+        },
+        {
+            "name": "rating",
+            "value": "3.722518"
+        },
+        {
+            "name": "quantity",
+            "value": "636"
+        }
+    ]
+}
+
+2023-11-04 03:18:05,254 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "66ce1b0f-be18-4455-b268-c046ce2a44b1",
+    "widgetId": "afd4d379-b6e1-4cea-84f1-6e5f2da14f5f",
+    "owner": "John Jones",
+    "label": "HROPN",
+    "description": "JBWTLFBNOEFDURLDXPLVIVSTNAKZFMLNYBXAVBRJKTSZZYDRMNAFPQENAFFSMGSZXIDDTCG",
+    "otherAttributes": [
+        {
+            "name": "width",
+            "value": "49"
+        },
+        {
+            "name": "length",
+            "value": "94"
+        },
+        {
+            "name": "rating",
+            "value": "3.722518"
+        },
+        {
+            "name": "quantity",
+            "value": "636"
+        }
+    ]
+}
+
+2023-11-04 03:18:05,337 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "3a884cb9-c9df-4d08-81ec-f1a1ab879b5c",
+    "widgetId": "4d09b9f5-7e18-4ed5-9d80-c29b65c2df02",
+    "owner": "Henry Hops",
+    "label": "KCO",
+    "description": "ISAYWKCSLYHEYHPCZCSDF",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "400"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "559"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "398"
+        },
+        {
+            "name": "price",
+            "value": "87.97"
+        },
+        {
+            "name": "vendor",
+            "value": "CZDWKMCRV"
+        }
+    ]
+}
+
+2023-11-04 03:18:05,458 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "3a884cb9-c9df-4d08-81ec-f1a1ab879b5c",
+    "widgetId": "4d09b9f5-7e18-4ed5-9d80-c29b65c2df02",
+    "owner": "Henry Hops",
+    "label": "KCO",
+    "description": "ISAYWKCSLYHEYHPCZCSDF",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "400"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "559"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "398"
+        },
+        {
+            "name": "price",
+            "value": "87.97"
+        },
+        {
+            "name": "vendor",
+            "value": "CZDWKMCRV"
+        }
+    ]
+}
+
+2023-11-04 03:18:05,531 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "50d8856c-92e6-4f16-9b1f-ccfbe87c479a",
+    "widgetId": "f58bb1e5-d23a-406b-8de0-16a6daa41f03",
+    "owner": "Sue Smith",
+    "label": "AE",
+    "description": "NMFSLENEGRTHIISQEQLPHDFUFWRCFPPPBNKEGARLOGRUEOXZAEBDNBTUUUJFLVANVPD",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "pink"
+        },
+        {
+            "name": "size",
+            "value": "289"
+        },
+        {
+            "name": "height",
+            "value": "97"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "15.07"
+        },
+        {
+            "name": "note",
+            "value": "XTBPUNCGNWBGGUXYOGDEBAWWGFJBARZLJFKXVLNRKCJKKWPBXSXSMYIBOHCTZRIJSSZYCTHXRNZWQBLUXXSBZOCUJRVLAIVTIBSJCWNDEAOYXN"
+        }
+    ]
+}
+
+2023-11-04 03:18:05,625 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "50d8856c-92e6-4f16-9b1f-ccfbe87c479a",
+    "widgetId": "f58bb1e5-d23a-406b-8de0-16a6daa41f03",
+    "owner": "Sue Smith",
+    "label": "AE",
+    "description": "NMFSLENEGRTHIISQEQLPHDFUFWRCFPPPBNKEGARLOGRUEOXZAEBDNBTUUUJFLVANVPD",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "pink"
+        },
+        {
+            "name": "size",
+            "value": "289"
+        },
+        {
+            "name": "height",
+            "value": "97"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "15.07"
+        },
+        {
+            "name": "note",
+            "value": "XTBPUNCGNWBGGUXYOGDEBAWWGFJBARZLJFKXVLNRKCJKKWPBXSXSMYIBOHCTZRIJSSZYCTHXRNZWQBLUXXSBZOCUJRVLAIVTIBSJCWNDEAOYXN"
+        }
+    ]
+}
+
+2023-11-04 03:18:05,697 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "cbc27b88-1557-4903-9781-e5be7e343b35",
+    "widgetId": "ae49be19-a89c-4cdc-bf30-ec10676fd575",
+    "owner": "Mary Matthews",
+    "description": "QQAMBWMBRLJCFYTUUYYRZYEVIRFSJPMSENUCZXWWGGKONJPFKZHVMHJEYZGZJRTRASEHAORQBJPTCIHKZVHPGZEXVAL",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "red"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "722"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "3.2145677"
+        },
+        {
+            "name": "price",
+            "value": "14.95"
+        },
+        {
+            "name": "quantity",
+            "value": "647"
+        }
+    ]
+}
+
+2023-11-04 03:18:05,777 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "2545084e-a8a9-4f84-bb6c-40e706ce9008",
+    "widgetId": "5f21d3a0-d195-49ff-9cf3-94c6be90288c",
+    "owner": "Sue Smith",
+    "label": "HBJF",
+    "description": "UOCLSKJGABCORWZEKZMLRRJSITWBFRJVPOIRZJSEKZQTNDTCZLCYVQQBUTSDXTDYODAXBJWNNVIS",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "yellow"
+        },
+        {
+            "name": "height",
+            "value": "587"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "779"
+        },
+        {
+            "name": "rating",
+            "value": "0.20332158"
+        },
+        {
+            "name": "note",
+            "value": "WDBKWTESIJNWHCCUDBMYNBCBNJINXQDIZOUPKLBWGBQUGJSAXPUXAXYQHHCSPXEIBIHFRHTVSZDHWCRGTCEGNRIMQQBBLTHATFPMTDQSDHSLCNARIIKPIWYRCJLLLZFFABYOECOLEXLMMFTXEDXPZRYDKBYQIJFWSMCQMLKHKAMHXDJSMVLDUEEYWOPMTIDJRCBTRGXRFSAMOXNTUSHUGEFWTNKTOJMCKCMFHBBRLHVTFKRMHSUWLWDTZSZREZJLOUUYYNJMNTDBTAVFUIIRYALPVZFPJXAXCITAFQDZPOEYOOKKYYHPLMMAQCBVSEFSYSRRJNEAJSQOFWTLKMXGYRAYDUFMNSVOZIBAYHZOCLTUAWPAPTDBSNIHFXHYRCRILNRZNWUYI"
+        }
+    ]
+}
+
+2023-11-04 03:18:05,855 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "a75f49f2-444d-4306-add5-7735d0c998ad",
+    "widgetId": "4d09b9f5-7e18-4ed5-9d80-c29b65c2df02",
+    "owner": "Henry Hops",
+    "label": "DJNSK",
+    "description": "VSLYUIOKCLUKDCEAEAHNMZGFUFFQRZCFHGBNNGDUCCOQOKGEIISEZUPTMRGOOFAJSXLEBRURNUTRLIJOL",
+    "otherAttributes": [
+        {
+            "name": "height",
+            "value": "173"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "1.7690446"
+        },
+        {
+            "name": "quantity",
+            "value": "218"
+        },
+        {
+            "name": "note",
+            "value": "DMOCVBWQLTBDRYPSAFPGJHWQVOINTPOCWDPSQNCTLINKKTNEWMJ"
+        }
+    ]
+}
+
+2023-11-04 03:18:05,923 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "9c2881ce-8b0a-45a1-865f-07af0d1eeb9e",
+    "widgetId": "8f438e68-dcee-449e-b04d-f263efcfb2d8",
+    "owner": "Mary Matthews",
+    "description": "UTXMPYYLPISYRKSJPPYEVFZRNNKSUMDKAUQJJCOIJHWRJMQGDUKUBIKCOKGEJKILJDHRBSBJXLPQNAGTMCRJCQ",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "pink"
+        },
+        {
+            "name": "size",
+            "value": "82"
+        },
+        {
+            "name": "height",
+            "value": "756"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "146"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "0.84319264"
+        },
+        {
+            "name": "price",
+            "value": "89.15"
+        },
+        {
+            "name": "quantity",
+            "value": "922"
+        },
+        {
+            "name": "note",
+            "value": "PSVZPGXYFLAJOZMVNMIVGJIQHAYTWVWPTQKYVRKKGPTHQTQTABTFHFEWUCGYBCCJMQVPASMLYCAVPIFKOXKACCTRZKAVUUEXKFHKBEDAOGKTGECGMFANEDOYJMJHAYYXJRPQHOAZNYHZXAMVVFGMHHTAECSCMLWGQNANNIBOTNOFZCBIVMKMWXHBMRNBUSUOFLFXSTJAGZCBBDZDMITHKGPRZFUBBUYXASQAWPLCXNEIJADPOCKRNBEOPXMYWICWFYMDBFEEUQNSMQTJJCVYQPNJFPFZJLNOZFMKWFEARQUCVLMISFFAATUZIEGLTKXTGBZBGUCLAWQFHCSLQFCBPAQUHQEALQIRUMMUMICJRQDLGKLLDMPQYBFIDYRQYMOD"
+        }
+    ]
+}
+
+2023-11-04 03:18:05,995 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "ec010872-294a-43c7-871d-b0a8e2fa41c5",
+    "widgetId": "3bbb6e39-bf7e-4c46-8543-ed211b0d6606",
+    "owner": "Mary Matthews",
+    "label": "BWCLQTSY",
+    "description": "FPIRTL",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "985"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "4.071151"
+        },
+        {
+            "name": "quantity",
+            "value": "277"
+        },
+        {
+            "name": "note",
+            "value": "EVTLOIBJTRONWSYQIOFOSZHCORBFJZILSAVBVGZQYORHZPFKPEWMIEAEKEAWXBTKWPNEKLWSRQHLMQTPWPFBOJTBEJKHGCPADUKDRUMPJMYCUUOOVSNYSCEHFDSCKDCBGYMYCXFCSPNANTKQLNPFMHPXLTVSVWMVHHKKWCNOIFOERFNCLFSDCQEFDFOFDNDGNFSACDUOQLORDERXZLTLWDJHCCOVMUDFXZBEGQORHAPRACUNWLDVIPOYYJONMZDBNCVWELJNCSGLSKVNWNXXLPPZQPXVCRZGPIPJVMHZHCIPHMIVQRIWNTYQIJXZNVGYESRRTOGSAPYUQXYJBZPKUKBKUXRBWNEWPZKZTGWWAJMTZZHZMSWXTNOOESFTWXOIUQZU"
+        }
+    ]
+}
+
+2023-11-04 03:18:06,070 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "c88adcfe-159c-4383-b7fe-3bce497ed381",
+    "widgetId": "3deac216-1945-4489-b641-7ae0de53e34e",
+    "owner": "Sue Smith",
+    "label": "YVTYVCN",
+    "description": "IZVLZDGRA",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "429"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "0.94869405"
+        },
+        {
+            "name": "price",
+            "value": "71.22"
+        },
+        {
+            "name": "quantity",
+            "value": "961"
+        },
+        {
+            "name": "note",
+            "value": "CKWBRHPDGINEZEEBSOTXJYFBPFTNHJYWYOGJVSBDANPFHWFNPMGHHQTDHXEKFTVLAEOBPNLGDAFCJSVVOASPYUDOBYCERQGFGNAINQTPAZUKVXVJSPQLKBNXWLDNHCHEMPZYFBETGBZXJQMATCTNJFCGVASNFIIPOMBBIUZXJQRHWEKUTTWTGMPMPYDUEUHCYMLGPRMFVSBKQCRQXNYJEXQG"
+        }
+    ]
+}
+
+2023-11-04 03:18:06,172 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "c88adcfe-159c-4383-b7fe-3bce497ed381",
+    "widgetId": "3deac216-1945-4489-b641-7ae0de53e34e",
+    "owner": "Sue Smith",
+    "label": "YVTYVCN",
+    "description": "IZVLZDGRA",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "429"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "0.94869405"
+        },
+        {
+            "name": "price",
+            "value": "71.22"
+        },
+        {
+            "name": "quantity",
+            "value": "961"
+        },
+        {
+            "name": "note",
+            "value": "CKWBRHPDGINEZEEBSOTXJYFBPFTNHJYWYOGJVSBDANPFHWFNPMGHHQTDHXEKFTVLAEOBPNLGDAFCJSVVOASPYUDOBYCERQGFGNAINQTPAZUKVXVJSPQLKBNXWLDNHCHEMPZYFBETGBZXJQMATCTNJFCGVASNFIIPOMBBIUZXJQRHWEKUTTWTGMPMPYDUEUHCYMLGPRMFVSBKQCRQXNYJEXQG"
+        }
+    ]
+}
+
+2023-11-04 03:18:06,246 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "e772debb-25e4-422e-9772-72c83b7e8b80",
+    "widgetId": "2b14f37e-91b4-40a0-ab4f-c5f3cb26f2d6",
+    "owner": "Henry Hops",
+    "label": "MGSAMFTDI",
+    "description": "FQSRMRRAAVQVPWOVBRPSSOVQNGKHQVAXJYJFBVNWOAWCZWWGHZZFOPSBLXHXSV",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "red"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "520"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "2.0753036"
+        },
+        {
+            "name": "quantity",
+            "value": "635"
+        },
+        {
+            "name": "vendor",
+            "value": "GILI"
+        },
+        {
+            "name": "note",
+            "value": "ADLVZIQSNGTUQWTWZMWBETELKGJSVYXAUIYVJETRYHIEWOCRUVEOUDWAQEKWBGRTWHHJKERDASCNNLEWTTTHSELFTPBYCSPLLYHRAZAPDZB"
+        }
+    ]
+}
+
+2023-11-04 03:18:06,365 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "e772debb-25e4-422e-9772-72c83b7e8b80",
+    "widgetId": "2b14f37e-91b4-40a0-ab4f-c5f3cb26f2d6",
+    "owner": "Henry Hops",
+    "label": "MGSAMFTDI",
+    "description": "FQSRMRRAAVQVPWOVBRPSSOVQNGKHQVAXJYJFBVNWOAWCZWWGHZZFOPSBLXHXSV",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "red"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "520"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "2.0753036"
+        },
+        {
+            "name": "quantity",
+            "value": "635"
+        },
+        {
+            "name": "vendor",
+            "value": "GILI"
+        },
+        {
+            "name": "note",
+            "value": "ADLVZIQSNGTUQWTWZMWBETELKGJSVYXAUIYVJETRYHIEWOCRUVEOUDWAQEKWBGRTWHHJKERDASCNNLEWTTTHSELFTPBYCSPLLYHRAZAPDZB"
+        }
+    ]
+}
+
+2023-11-04 03:18:06,464 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "949f2152-8f10-4c65-b5ef-57fcd12ee005",
+    "widgetId": "38fe166a-ef0e-44ec-9d86-76afef906366",
+    "owner": "Henry Hops",
+    "label": "D",
+    "description": "RDNJMGJKMFVSNZIZESVQQTPIXIZYOAJJJIEVZZEIUZEQAUIXVPXCUFABVBUXUAYZNRFHLKKRW",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "720"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "124"
+        },
+        {
+            "name": "rating",
+            "value": "2.0760071"
+        },
+        {
+            "name": "vendor",
+            "value": "DXCEHWZFSQHXUSQ"
+        }
+    ]
+}
+
+2023-11-04 03:18:06,628 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "949f2152-8f10-4c65-b5ef-57fcd12ee005",
+    "widgetId": "38fe166a-ef0e-44ec-9d86-76afef906366",
+    "owner": "Henry Hops",
+    "label": "D",
+    "description": "RDNJMGJKMFVSNZIZESVQQTPIXIZYOAJJJIEVZZEIUZEQAUIXVPXCUFABVBUXUAYZNRFHLKKRW",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "720"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "124"
+        },
+        {
+            "name": "rating",
+            "value": "2.0760071"
+        },
+        {
+            "name": "vendor",
+            "value": "DXCEHWZFSQHXUSQ"
+        }
+    ]
+}
+
+2023-11-04 03:18:06,698 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "e5c1d73c-c113-42a0-8a7c-f3bd8387af8c",
+    "widgetId": "24db24c8-0eaf-4bf5-a49c-02269b3d7708",
+    "owner": "John Jones",
+    "label": "SL",
+    "description": "ZZOGBXQXEKFXNMMNPFYYNODQMYAJLDFBXAEFPTIYORBZDNGPCHMEZTQOBQNMMTKHRTLBDQCZRSNSRUSVBIKUL",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "255"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "21"
+        },
+        {
+            "name": "length",
+            "value": "294"
+        },
+        {
+            "name": "rating",
+            "value": "1.1878872"
+        },
+        {
+            "name": "note",
+            "value": "NTWXHXZHLYTJTVSPDABOWWAFCULXRRHAPGMWTBFBXJTPBIJTUGJAPCWTFMCSXIUJDAORHRSVVXNAL"
+        }
+    ]
+}
+
+2023-11-04 03:18:06,793 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "e5c1d73c-c113-42a0-8a7c-f3bd8387af8c",
+    "widgetId": "24db24c8-0eaf-4bf5-a49c-02269b3d7708",
+    "owner": "John Jones",
+    "label": "SL",
+    "description": "ZZOGBXQXEKFXNMMNPFYYNODQMYAJLDFBXAEFPTIYORBZDNGPCHMEZTQOBQNMMTKHRTLBDQCZRSNSRUSVBIKUL",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "255"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "21"
+        },
+        {
+            "name": "length",
+            "value": "294"
+        },
+        {
+            "name": "rating",
+            "value": "1.1878872"
+        },
+        {
+            "name": "note",
+            "value": "NTWXHXZHLYTJTVSPDABOWWAFCULXRRHAPGMWTBFBXJTPBIJTUGJAPCWTFMCSXIUJDAORHRSVVXNAL"
+        }
+    ]
+}
+
+2023-11-04 03:18:06,842 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "023f6f28-9939-4cf1-a137-58e34f8a8b51",
+    "widgetId": "eebe5ff4-ec4b-459d-a0c6-066d8f47946c",
+    "owner": "John Jones",
+    "label": "WIGOTMFD",
+    "description": "YEMMRMZZASZCZWZECQNSCDXBIAHTSWYVHSYDIACFZGVAPMCWNRHIUGSDPFVHEEN",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "892"
+        },
+        {
+            "name": "height",
+            "value": "533"
+        },
+        {
+            "name": "price",
+            "value": "54.38"
+        },
+        {
+            "name": "quantity",
+            "value": "1000"
+        },
+        {
+            "name": "vendor",
+            "value": "CRBKMKNCDNLAYOIQB"
+        }
+    ]
+}
+
+2023-11-04 03:18:06,963 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "023f6f28-9939-4cf1-a137-58e34f8a8b51",
+    "widgetId": "eebe5ff4-ec4b-459d-a0c6-066d8f47946c",
+    "owner": "John Jones",
+    "label": "WIGOTMFD",
+    "description": "YEMMRMZZASZCZWZECQNSCDXBIAHTSWYVHSYDIACFZGVAPMCWNRHIUGSDPFVHEEN",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "892"
+        },
+        {
+            "name": "height",
+            "value": "533"
+        },
+        {
+            "name": "price",
+            "value": "54.38"
+        },
+        {
+            "name": "quantity",
+            "value": "1000"
+        },
+        {
+            "name": "vendor",
+            "value": "CRBKMKNCDNLAYOIQB"
+        }
+    ]
+}
+
+2023-11-04 03:18:07,025 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "74bad88b-c6ac-493b-a1a9-94115c201c02",
+    "widgetId": "307bf993-6eca-42d3-9887-33a74e5cdef8",
+    "owner": "Mary Matthews",
+    "label": "VSTKWMKFR",
+    "description": "RKFYIUBHRBJQNQUCSWQIICXCKHFONEZCBPOJXAIGOUYXKQXCUNGUMCNGUQQCXGUUNYWYYJCBSRYJSRBWSNPOOZIABKBSXLRNNVA",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size",
+            "value": "444"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "19.6"
+        },
+        {
+            "name": "note",
+            "value": "UXREGMQAQFHMQCFQTKNIMNPRWX"
+        }
+    ]
+}
+
+2023-11-04 03:18:07,176 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "74bad88b-c6ac-493b-a1a9-94115c201c02",
+    "widgetId": "307bf993-6eca-42d3-9887-33a74e5cdef8",
+    "owner": "Mary Matthews",
+    "label": "VSTKWMKFR",
+    "description": "RKFYIUBHRBJQNQUCSWQIICXCKHFONEZCBPOJXAIGOUYXKQXCUNGUMCNGUQQCXGUUNYWYYJCBSRYJSRBWSNPOOZIABKBSXLRNNVA",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size",
+            "value": "444"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "19.6"
+        },
+        {
+            "name": "note",
+            "value": "UXREGMQAQFHMQCFQTKNIMNPRWX"
+        }
+    ]
+}
+
+2023-11-04 03:18:07,351 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "97417196-9fad-4412-9602-9b846dd63139",
+    "widgetId": "59caadb8-277a-4943-9190-87a76880456e",
+    "owner": "John Jones",
+    "label": "NQUW",
+    "description": "HEUGMFVCTYSRTGHPVWJJYIIBHLHYXVOZCHVZVFSRPUXETUDILT",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "976"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "202"
+        },
+        {
+            "name": "rating",
+            "value": "1.3972619"
+        },
+        {
+            "name": "price",
+            "value": "34.72"
+        },
+        {
+            "name": "note",
+            "value": "EOUHDYWRNTZTKZTTZSMFDRYAJDBMOQBEAVQBWSTNFSXGFXCOPDWUJPSGZNFPD"
+        }
+    ]
+}
+
+2023-11-04 03:18:07,471 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "97417196-9fad-4412-9602-9b846dd63139",
+    "widgetId": "59caadb8-277a-4943-9190-87a76880456e",
+    "owner": "John Jones",
+    "label": "NQUW",
+    "description": "HEUGMFVCTYSRTGHPVWJJYIIBHLHYXVOZCHVZVFSRPUXETUDILT",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "976"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "202"
+        },
+        {
+            "name": "rating",
+            "value": "1.3972619"
+        },
+        {
+            "name": "price",
+            "value": "34.72"
+        },
+        {
+            "name": "note",
+            "value": "EOUHDYWRNTZTKZTTZSMFDRYAJDBMOQBEAVQBWSTNFSXGFXCOPDWUJPSGZNFPD"
+        }
+    ]
+}
+
+2023-11-04 03:18:07,516 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "5ca6997a-7f32-427b-aceb-386e39655131",
+    "widgetId": "0ba38457-b188-46c8-bcf2-6d020b326f67",
+    "owner": "Henry Hops",
+    "description": "ZEGOXZYTHCNOTNTORJKLDFLOMPSNMNTIMPPOPZYQCAZCQYRODRYH",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "pink"
+        },
+        {
+            "name": "height",
+            "value": "233"
+        },
+        {
+            "name": "width",
+            "value": "10"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "303"
+        },
+        {
+            "name": "rating",
+            "value": "1.8731999"
+        },
+        {
+            "name": "quantity",
+            "value": "709"
+        },
+        {
+            "name": "vendor",
+            "value": "VFBGKHZC"
+        },
+        {
+            "name": "note",
+            "value": "GURTUBJBXHMVFMNSKZNCSMALTTLTAOMDACXMYVAAXDKDECYIQCMXFXOAAMAOBUTJHCABAJBNBUFXEUJIKLEXDPYJOICJNGSVVBHXTXGJIBEZZCJAAUKSKNPAZAEPZXULXGRUXAGKSZLIKDASTMZYNDADJGJWLLXBFKSMEQSOBWYZLJEHNZPCCFOZUBQLLUDYIWQRBVGEFMSMFMDNTKXOMJCOQOSRGMKCMZECKMIKCYEYTCOHDICSRWNMNCIRSTTQDNNZZDICCKNMYMCVFMUZOAOSHGQXTLNSRHDIRQNTFBBBFMFHXSTCGJTCCACJMBYKZWCAGVUTVMQDXLRBZTMMGDLAOBFTXLOXAUPMRIVWYBJTXSEZHFLTDKBYPIRWRXKF"
+        }
+    ]
+}
+
+2023-11-04 03:18:07,577 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "26fd8757-a371-4522-802d-a5b35dc882bf",
+    "widgetId": "03af709e-3f70-44b6-833c-0bafa8653f14",
+    "owner": "Mary Matthews",
+    "label": "TTFE",
+    "description": "FMUBHNDIUOMYWWAHVMTBWW",
+    "otherAttributes": [
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "53.91"
+        },
+        {
+            "name": "quantity",
+            "value": "518"
+        }
+    ]
+}
+
+2023-11-04 03:18:07,692 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "26fd8757-a371-4522-802d-a5b35dc882bf",
+    "widgetId": "03af709e-3f70-44b6-833c-0bafa8653f14",
+    "owner": "Mary Matthews",
+    "label": "TTFE",
+    "description": "FMUBHNDIUOMYWWAHVMTBWW",
+    "otherAttributes": [
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "53.91"
+        },
+        {
+            "name": "quantity",
+            "value": "518"
+        }
+    ]
+}
+
+2023-11-04 03:18:07,769 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "699a3366-f80a-4c60-b12e-7569474590e2",
+    "widgetId": "c142fb5b-f25a-46dd-bcf5-773d5eac3b69",
+    "owner": "John Jones",
+    "label": "STYAG",
+    "description": "XOTASRPUFBAVFJOHNZEIIETRKXQGRUPPMPYQFUN",
+    "otherAttributes": [
+        {
+            "name": "height",
+            "value": "14"
+        },
+        {
+            "name": "width",
+            "value": "637"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "297"
+        },
+        {
+            "name": "price",
+            "value": "66.31"
+        },
+        {
+            "name": "vendor",
+            "value": "OUTNMGFHQTCDDSG"
+        }
+    ]
+}
+
+2023-11-04 03:18:07,900 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "699a3366-f80a-4c60-b12e-7569474590e2",
+    "widgetId": "c142fb5b-f25a-46dd-bcf5-773d5eac3b69",
+    "owner": "John Jones",
+    "label": "STYAG",
+    "description": "XOTASRPUFBAVFJOHNZEIIETRKXQGRUPPMPYQFUN",
+    "otherAttributes": [
+        {
+            "name": "height",
+            "value": "14"
+        },
+        {
+            "name": "width",
+            "value": "637"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "297"
+        },
+        {
+            "name": "price",
+            "value": "66.31"
+        },
+        {
+            "name": "vendor",
+            "value": "OUTNMGFHQTCDDSG"
+        }
+    ]
+}
+
+2023-11-04 03:18:07,980 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "684ddcbc-1600-4992-91b1-4f079e54cd51",
+    "widgetId": "78227434-3342-44bb-a004-4d064d936dbb",
+    "owner": "Henry Hops",
+    "label": "IVJ",
+    "description": "VB",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        }
+    ]
+}
+
+2023-11-04 03:18:08,068 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "684ddcbc-1600-4992-91b1-4f079e54cd51",
+    "widgetId": "78227434-3342-44bb-a004-4d064d936dbb",
+    "owner": "Henry Hops",
+    "label": "IVJ",
+    "description": "VB",
+    "otherAttributes": [
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        }
+    ]
+}
+
+2023-11-04 03:18:08,137 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "cf49edd0-351f-4c4f-9fb8-ca9337c8c0ab",
+    "widgetId": "6293778a-f20b-4951-b921-4c464e5cb809",
+    "owner": "John Jones",
+    "label": "",
+    "description": "IFBQORPTAFUP",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size",
+            "value": "77"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "2.7887716"
+        },
+        {
+            "name": "price",
+            "value": "28.8"
+        },
+        {
+            "name": "quantity",
+            "value": "864"
+        },
+        {
+            "name": "note",
+            "value": "OKCHMSEGKFATUBJZEEPFMEWWAUYTBEPUPYCLCDZXYEOCQHXJLSEVHSSTVGQUGVTOOTHMTKQXAPMNEHPUOMEUJLPOXVMTHIGQDICXELDFCOJWRVQTLOIEXCICILWAWCQTASXOWIBQIGHVDHUQEJCAQSQXWXSLYULUXFAVFAQGQJMAGNSUZJCNNPAUKEOQYGSZUHWWQCUGUZKRAIFKGITLHKQMOKIXIZKYASTBWCNURNDOEFINMPHUCGBYCZLQFRSIFXRHUSYLBWWZLLJCLCAGHZCTYGXFIGPJFXCKFAEBOISFDBUGLXFPNLFYINYHWMBUWMPGJGCXTLLFAXPMUUUTDDDSIODXGLXKGKKHBWUPMEYLMLXVCRBIEOPMBMGRDHKPTYD"
+        }
+    ]
+}
+
+2023-11-04 03:18:08,235 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "cf49edd0-351f-4c4f-9fb8-ca9337c8c0ab",
+    "widgetId": "6293778a-f20b-4951-b921-4c464e5cb809",
+    "owner": "John Jones",
+    "label": "",
+    "description": "IFBQORPTAFUP",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size",
+            "value": "77"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "2.7887716"
+        },
+        {
+            "name": "price",
+            "value": "28.8"
+        },
+        {
+            "name": "quantity",
+            "value": "864"
+        },
+        {
+            "name": "note",
+            "value": "OKCHMSEGKFATUBJZEEPFMEWWAUYTBEPUPYCLCDZXYEOCQHXJLSEVHSSTVGQUGVTOOTHMTKQXAPMNEHPUOMEUJLPOXVMTHIGQDICXELDFCOJWRVQTLOIEXCICILWAWCQTASXOWIBQIGHVDHUQEJCAQSQXWXSLYULUXFAVFAQGQJMAGNSUZJCNNPAUKEOQYGSZUHWWQCUGUZKRAIFKGITLHKQMOKIXIZKYASTBWCNURNDOEFINMPHUCGBYCZLQFRSIFXRHUSYLBWWZLLJCLCAGHZCTYGXFIGPJFXCKFAEBOISFDBUGLXFPNLFYINYHWMBUWMPGJGCXTLLFAXPMUUUTDDDSIODXGLXKGKKHBWUPMEYLMLXVCRBIEOPMBMGRDHKPTYD"
+        }
+    ]
+}
+
+2023-11-04 03:18:08,310 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "c899cde4-5f6b-448a-a328-f995e8448250",
+    "widgetId": "2100e30d-a0f8-4ec8-8ff5-cb0c9563c176",
+    "owner": "Sue Smith",
+    "description": "XESLPN",
+    "otherAttributes": [
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "note",
+            "value": "LCEZKUQDICRZHAWKHZVPUBDQTTJNONQEIXBKDHJNMKPPVRWABYDLUDOXLPBFJYWNQQLORPLDZFMUVLLURLWFRXHDEBCBKHRGMMC"
+        }
+    ]
+}
+
+2023-11-04 03:18:08,375 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "delete",
+    "requestId": "8c91c42e-418d-43e2-ad5f-f19c70031174",
+    "widgetId": "50324ea9-6adc-414c-9d94-a5dfc32a21e1",
+    "owner": "Mary Matthews"
+}
+
+2023-11-04 03:18:08,444 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "0bbe331d-91c3-469f-a7ff-b4f779d85188",
+    "widgetId": "13782db6-b3d3-4200-aebb-4ec2c941f578",
+    "owner": "Mary Matthews",
+    "label": "U",
+    "description": "MVAQJQTFTZZPSBTVRXFLIQIY",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "88"
+        },
+        {
+            "name": "width",
+            "value": "858"
+        },
+        {
+            "name": "length",
+            "value": "875"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "vendor",
+            "value": "NOOA"
+        }
+    ]
+}
+
+2023-11-04 03:18:08,524 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "0bbe331d-91c3-469f-a7ff-b4f779d85188",
+    "widgetId": "13782db6-b3d3-4200-aebb-4ec2c941f578",
+    "owner": "Mary Matthews",
+    "label": "U",
+    "description": "MVAQJQTFTZZPSBTVRXFLIQIY",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "88"
+        },
+        {
+            "name": "width",
+            "value": "858"
+        },
+        {
+            "name": "length",
+            "value": "875"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "vendor",
+            "value": "NOOA"
+        }
+    ]
+}
+
+2023-11-04 03:18:08,597 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "4b46b257-70c2-422c-b567-d77d7b249c16",
+    "widgetId": "3a788408-4284-4dae-961a-897822f6fa55",
+    "owner": "Mary Matthews",
+    "label": "XX",
+    "description": "GZYDHKJ",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "pink"
+        },
+        {
+            "name": "size",
+            "value": "263"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "398"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "50.07"
+        }
+    ]
+}
+
+2023-11-04 03:18:08,673 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "f79bfafb-3398-4988-b987-02b074009194",
+    "widgetId": "0232aa50-ca79-4160-80ba-e07e450ea0c0",
+    "owner": "Mary Matthews",
+    "label": "HYNUAB",
+    "description": "FSGZHVJKIZQHYMDOXXDRTH",
+    "otherAttributes": [
+        {
+            "name": "height",
+            "value": "779"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "86.94"
+        },
+        {
+            "name": "quantity",
+            "value": "190"
+        },
+        {
+            "name": "vendor",
+            "value": "AFEMI"
+        }
+    ]
+}
+
+2023-11-04 03:18:08,788 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "f79bfafb-3398-4988-b987-02b074009194",
+    "widgetId": "0232aa50-ca79-4160-80ba-e07e450ea0c0",
+    "owner": "Mary Matthews",
+    "label": "HYNUAB",
+    "description": "FSGZHVJKIZQHYMDOXXDRTH",
+    "otherAttributes": [
+        {
+            "name": "height",
+            "value": "779"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "86.94"
+        },
+        {
+            "name": "quantity",
+            "value": "190"
+        },
+        {
+            "name": "vendor",
+            "value": "AFEMI"
+        }
+    ]
+}
+
+2023-11-04 03:18:08,853 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "delete",
+    "requestId": "7b3163c9-0af4-4c14-b9a5-87cb483e50c3",
+    "widgetId": "b53c9c1d-c9f6-466e-887a-dc5b514550ea",
+    "owner": "John Jones"
+}
+
+2023-11-04 03:18:08,939 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "24d3e26d-6490-429c-baa5-5fc558ff9de8",
+    "widgetId": "333dc4fa-1281-4d74-9d29-8372e7e964a8",
+    "owner": "Sue Smith",
+    "label": "LN",
+    "description": "ECNWZSVRMARSKTQSWWXDLTJLR",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "807"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "971"
+        },
+        {
+            "name": "rating",
+            "value": "4.839055"
+        }
+    ]
+}
+
+2023-11-04 03:18:09,030 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "24d3e26d-6490-429c-baa5-5fc558ff9de8",
+    "widgetId": "333dc4fa-1281-4d74-9d29-8372e7e964a8",
+    "owner": "Sue Smith",
+    "label": "LN",
+    "description": "ECNWZSVRMARSKTQSWWXDLTJLR",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "807"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "971"
+        },
+        {
+            "name": "rating",
+            "value": "4.839055"
+        }
+    ]
+}
+
+2023-11-04 03:18:09,097 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "2579cdde-736c-4048-b2d3-d1f4af38b3ab",
+    "widgetId": "1b42158d-4806-46b2-a572-8c1d14930d3e",
+    "owner": "Sue Smith",
+    "label": "PWUN",
+    "description": "",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "701"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "243"
+        },
+        {
+            "name": "price",
+            "value": "21.14"
+        },
+        {
+            "name": "quantity",
+            "value": "459"
+        },
+        {
+            "name": "vendor",
+            "value": "VMEXTAHQDGJNU"
+        }
+    ]
+}
+
+2023-11-04 03:18:09,187 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "2579cdde-736c-4048-b2d3-d1f4af38b3ab",
+    "widgetId": "1b42158d-4806-46b2-a572-8c1d14930d3e",
+    "owner": "Sue Smith",
+    "label": "PWUN",
+    "description": "",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "701"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "243"
+        },
+        {
+            "name": "price",
+            "value": "21.14"
+        },
+        {
+            "name": "quantity",
+            "value": "459"
+        },
+        {
+            "name": "vendor",
+            "value": "VMEXTAHQDGJNU"
+        }
+    ]
+}
+
+2023-11-04 03:18:09,262 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "delete",
+    "requestId": "c4890738-4295-4206-9908-f9974412ef53",
+    "widgetId": "f58fdb4d-031d-49a7-83d0-3dbd859645ca",
+    "owner": "John Jones"
+}
+
+2023-11-04 03:18:09,337 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "ba5ae21e-3c30-4a60-a663-84a64aae903f",
+    "widgetId": "bcd3b6be-0731-45fc-8919-fd0832bef836",
+    "owner": "Sue Smith",
+    "label": "MLQAAUDAE",
+    "description": "PJ",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "476"
+        },
+        {
+            "name": "height",
+            "value": "741"
+        },
+        {
+            "name": "length",
+            "value": "753"
+        },
+        {
+            "name": "price",
+            "value": "8.9"
+        },
+        {
+            "name": "quantity",
+            "value": "13"
+        },
+        {
+            "name": "vendor",
+            "value": "NYK"
+        },
+        {
+            "name": "note",
+            "value": "FRGIOYHOTRYRPDTBIXVSZVEIRPRGITZEGSSEABDMZQTZCBEJQZCJLLYVNROGKIIQKURYXBWEXPHNONEVLBMDJ"
+        }
+    ]
+}
+
+2023-11-04 03:18:09,407 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "94d12cd3-1757-493f-83fb-525d9872ef37",
+    "widgetId": "ad7232da-159f-472b-8227-c03e036a0f43",
+    "owner": "Mary Matthews",
+    "label": "AP",
+    "description": "EHGVNTEZXLTSEKSLJQZSULCTHPMPNRBWUSSEDJXBLBMGOFZRMYPMCHEMGHUPUFABIFASLZCMV",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "pink"
+        },
+        {
+            "name": "size",
+            "value": "845"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "380"
+        },
+        {
+            "name": "price",
+            "value": "31.88"
+        },
+        {
+            "name": "quantity",
+            "value": "85"
+        },
+        {
+            "name": "vendor",
+            "value": "FUFRPCGNR"
+        }
+    ]
+}
+
+2023-11-04 03:18:09,540 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "94d12cd3-1757-493f-83fb-525d9872ef37",
+    "widgetId": "ad7232da-159f-472b-8227-c03e036a0f43",
+    "owner": "Mary Matthews",
+    "label": "AP",
+    "description": "EHGVNTEZXLTSEKSLJQZSULCTHPMPNRBWUSSEDJXBLBMGOFZRMYPMCHEMGHUPUFABIFASLZCMV",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "pink"
+        },
+        {
+            "name": "size",
+            "value": "845"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "380"
+        },
+        {
+            "name": "price",
+            "value": "31.88"
+        },
+        {
+            "name": "quantity",
+            "value": "85"
+        },
+        {
+            "name": "vendor",
+            "value": "FUFRPCGNR"
+        }
+    ]
+}
+
+2023-11-04 03:18:09,612 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "delete",
+    "requestId": "7e41fa91-63e1-41c6-9701-175090a2de00",
+    "widgetId": "4b6b2d72-a2a0-4443-a4b3-79f700766e70",
+    "owner": "Sue Smith"
+}
+
+2023-11-04 03:18:09,684 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "4eba5f6a-d609-41db-b5f8-b9528bb637f8",
+    "widgetId": "5a1d3c45-b7d9-478a-bf27-97aa7c727585",
+    "owner": "John Jones",
+    "label": "JXW",
+    "description": "RWIBODNYOCZPOKOQJFLEGVWWSRMWVQLQJKITIOYWIASOKWQULAZRCFIJHDISKPFPAXYVWLLZQE",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size",
+            "value": "256"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "334"
+        },
+        {
+            "name": "length",
+            "value": "839"
+        },
+        {
+            "name": "price",
+            "value": "26.69"
+        },
+        {
+            "name": "vendor",
+            "value": "WMR"
+        }
+    ]
+}
+
+2023-11-04 03:18:09,780 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "4eba5f6a-d609-41db-b5f8-b9528bb637f8",
+    "widgetId": "5a1d3c45-b7d9-478a-bf27-97aa7c727585",
+    "owner": "John Jones",
+    "label": "JXW",
+    "description": "RWIBODNYOCZPOKOQJFLEGVWWSRMWVQLQJKITIOYWIASOKWQULAZRCFIJHDISKPFPAXYVWLLZQE",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size",
+            "value": "256"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "334"
+        },
+        {
+            "name": "length",
+            "value": "839"
+        },
+        {
+            "name": "price",
+            "value": "26.69"
+        },
+        {
+            "name": "vendor",
+            "value": "WMR"
+        }
+    ]
+}
+
+2023-11-04 03:18:09,843 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "0054511e-fabf-45af-8244-e89c9d997118",
+    "widgetId": "991cddca-1cef-402a-ad13-135d32635887",
+    "owner": "Henry Hops",
+    "label": "K",
+    "description": "VRNQHKTJGMLYSZHHUONO",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "yellow"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "201"
+        },
+        {
+            "name": "rating",
+            "value": "3.2312214"
+        },
+        {
+            "name": "price",
+            "value": "17.86"
+        },
+        {
+            "name": "vendor",
+            "value": ""
+        },
+        {
+            "name": "note",
+            "value": "ADFOILUORBGJAFBZGEELYFAKCAGIDYGBDKIHVMUALPACJGSVPTSUVSRBPYKZCTUHVZFEJFNMJUGBUZURKNYGOULYOZIGMTWVFSUEHZXBESVWWMSOUZLIMBDSZPMMAIXBZWFJPXADBWLOJZTLCYKIAJYSZBIREVDPGVWVXAVCJIQWKHKSGWXOWVQKWLAIHUMOKCWMDHNHVVJUHNHIMVCGMOSLRHQVVGLPWOYSLCWPMOPH"
+        }
+    ]
+}
+
+2023-11-04 03:18:09,933 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "0054511e-fabf-45af-8244-e89c9d997118",
+    "widgetId": "991cddca-1cef-402a-ad13-135d32635887",
+    "owner": "Henry Hops",
+    "label": "K",
+    "description": "VRNQHKTJGMLYSZHHUONO",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "yellow"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "201"
+        },
+        {
+            "name": "rating",
+            "value": "3.2312214"
+        },
+        {
+            "name": "price",
+            "value": "17.86"
+        },
+        {
+            "name": "vendor",
+            "value": ""
+        },
+        {
+            "name": "note",
+            "value": "ADFOILUORBGJAFBZGEELYFAKCAGIDYGBDKIHVMUALPACJGSVPTSUVSRBPYKZCTUHVZFEJFNMJUGBUZURKNYGOULYOZIGMTWVFSUEHZXBESVWWMSOUZLIMBDSZPMMAIXBZWFJPXADBWLOJZTLCYKIAJYSZBIREVDPGVWVXAVCJIQWKHKSGWXOWVQKWLAIHUMOKCWMDHNHVVJUHNHIMVCGMOSLRHQVVGLPWOYSLCWPMOPH"
+        }
+    ]
+}
+
+2023-11-04 03:18:10,001 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "86d6aef4-23ab-4dd1-9d33-b5e2fe6802ab",
+    "widgetId": "7b6debf4-411c-4447-91fa-3dfe04ae7c0f",
+    "owner": "John Jones",
+    "label": "AJTJS",
+    "description": "LHACRNFXPAGJDWRHVCNGCDGUKKKGIECBIMBHQMQLWDXQJYYMADIFPMXYMWPAEFMUOMMGSRF",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "blue"
+        },
+        {
+            "name": "height",
+            "value": "271"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "2"
+        },
+        {
+            "name": "vendor",
+            "value": "LCOQNQPKOUU"
+        },
+        {
+            "name": "note",
+            "value": "FCQUCZLQFEPNCBQSPCKVGRJWBSFFDCYAGLDRGXCBBHWMHLJHRCZLTMSJUOVJLQPHGSEWESIKTXZVFIXCIAJSIHRDXPCFXFCNMHEVIDKJZWQDLWBNWSOARHFPYZJOZACMYB"
+        }
+    ]
+}
+
+2023-11-04 03:18:10,090 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "86d6aef4-23ab-4dd1-9d33-b5e2fe6802ab",
+    "widgetId": "7b6debf4-411c-4447-91fa-3dfe04ae7c0f",
+    "owner": "John Jones",
+    "label": "AJTJS",
+    "description": "LHACRNFXPAGJDWRHVCNGCDGUKKKGIECBIMBHQMQLWDXQJYYMADIFPMXYMWPAEFMUOMMGSRF",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "blue"
+        },
+        {
+            "name": "height",
+            "value": "271"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "2"
+        },
+        {
+            "name": "vendor",
+            "value": "LCOQNQPKOUU"
+        },
+        {
+            "name": "note",
+            "value": "FCQUCZLQFEPNCBQSPCKVGRJWBSFFDCYAGLDRGXCBBHWMHLJHRCZLTMSJUOVJLQPHGSEWESIKTXZVFIXCIAJSIHRDXPCFXFCNMHEVIDKJZWQDLWBNWSOARHFPYZJOZACMYB"
+        }
+    ]
+}
+
+2023-11-04 03:18:10,162 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "eff6988c-373c-4b12-8402-8e9523c5458d",
+    "widgetId": "49ebe307-9307-41cb-8db0-c1afe941fd5e",
+    "owner": "Mary Matthews",
+    "label": "QKXJ",
+    "description": "HPNFDT",
+    "otherAttributes": [
+        {
+            "name": "height",
+            "value": "207"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "1.7204517"
+        }
+    ]
+}
+
+2023-11-04 03:18:10,232 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "1e27373f-9751-46c6-893c-9b05386002dc",
+    "widgetId": "e1948ff0-6e4c-4f0b-9462-83a34d83a8b1",
+    "owner": "John Jones",
+    "label": "PDTARZ",
+    "description": "AUJECYLRCFDDLDOVMHNPQYAFTDBXTVLIWGYMMKTCQWYAWMRBBZEGJ",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "107"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "0.7837546"
+        },
+        {
+            "name": "price",
+            "value": "66.4"
+        },
+        {
+            "name": "quantity",
+            "value": "348"
+        },
+        {
+            "name": "vendor",
+            "value": "VBQOGHKZEDQAWST"
+        }
+    ]
+}
+
+2023-11-04 03:18:10,323 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "1e27373f-9751-46c6-893c-9b05386002dc",
+    "widgetId": "e1948ff0-6e4c-4f0b-9462-83a34d83a8b1",
+    "owner": "John Jones",
+    "label": "PDTARZ",
+    "description": "AUJECYLRCFDDLDOVMHNPQYAFTDBXTVLIWGYMMKTCQWYAWMRBBZEGJ",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width",
+            "value": "107"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "0.7837546"
+        },
+        {
+            "name": "price",
+            "value": "66.4"
+        },
+        {
+            "name": "quantity",
+            "value": "348"
+        },
+        {
+            "name": "vendor",
+            "value": "VBQOGHKZEDQAWST"
+        }
+    ]
+}
+
+2023-11-04 03:18:10,377 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "a7c1469d-e354-43c1-b5e8-7430fd653075",
+    "widgetId": "4d09b9f5-7e18-4ed5-9d80-c29b65c2df02",
+    "owner": "Henry Hops",
+    "description": "EIVIVQWGWSVGLTJLBCOMXCZYNWETDRABIOUHSUNBIVLRYSOLEQMANWHREDPZPJERFKCIRFGKPVNIYMWMIVVIINAG",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "orange"
+        },
+        {
+            "name": "size",
+            "value": "817"
+        },
+        {
+            "name": "height",
+            "value": "421"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "2.8774166"
+        },
+        {
+            "name": "quantity",
+            "value": "430"
+        }
+    ]
+}
+
+2023-11-04 03:18:10,450 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "05a6ae9e-8ce0-4458-ab9b-0cb19a866c6c",
+    "widgetId": "2e06fd4f-1d3a-4167-b26e-0aa339d5c88a",
+    "owner": "John Jones",
+    "label": "LS",
+    "description": "BLYRKXEGHWFAQ",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "yellow"
+        },
+        {
+            "name": "size",
+            "value": "102"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "quantity",
+            "value": "322"
+        },
+        {
+            "name": "vendor",
+            "value": "PJBOPPXORPXK"
+        },
+        {
+            "name": "note",
+            "value": "IMUCQIEEEDIXZHSQNCONGXZYMEWERWDCWJHWHXNISMESQZXRALDIGZVMOXVBMNSZXTWDHZGSHGXITQMANBPIUNGKRSKQFNRDYTOLKDFTUKMQKXARJVARCQYZWUHQECOGODCAHKIYMMXERMAJ"
+        }
+    ]
+}
+
+2023-11-04 03:18:10,592 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "05a6ae9e-8ce0-4458-ab9b-0cb19a866c6c",
+    "widgetId": "2e06fd4f-1d3a-4167-b26e-0aa339d5c88a",
+    "owner": "John Jones",
+    "label": "LS",
+    "description": "BLYRKXEGHWFAQ",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "yellow"
+        },
+        {
+            "name": "size",
+            "value": "102"
+        },
+        {
+            "name": "size-unit",
+            "value": "cm"
+        },
+        {
+            "name": "quantity",
+            "value": "322"
+        },
+        {
+            "name": "vendor",
+            "value": "PJBOPPXORPXK"
+        },
+        {
+            "name": "note",
+            "value": "IMUCQIEEEDIXZHSQNCONGXZYMEWERWDCWJHWHXNISMESQZXRALDIGZVMOXVBMNSZXTWDHZGSHGXITQMANBPIUNGKRSKQFNRDYTOLKDFTUKMQKXARJVARCQYZWUHQECOGODCAHKIYMMXERMAJ"
+        }
+    ]
+}
+
+2023-11-04 03:18:10,689 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "dbe6e44f-fc9c-4565-9093-81d9cef7df78",
+    "widgetId": "0bbee998-755a-4797-9810-f890f061415f",
+    "owner": "Sue Smith",
+    "label": "DKRS",
+    "description": "RESEVHRYRBJNJGHYJDIGKOJUQODKPXCZFAMKMFANWAKIBSDCQYDRZLKRQLZHALBVASSZGVVZKVWLCGEJLEBPJRADTFZY",
+    "otherAttributes": [
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "quantity",
+            "value": "737"
+        },
+        {
+            "name": "vendor",
+            "value": "GMZHCVDCBPHDUAVN"
+        }
+    ]
+}
+
+2023-11-04 03:18:10,814 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "dbe6e44f-fc9c-4565-9093-81d9cef7df78",
+    "widgetId": "0bbee998-755a-4797-9810-f890f061415f",
+    "owner": "Sue Smith",
+    "label": "DKRS",
+    "description": "RESEVHRYRBJNJGHYJDIGKOJUQODKPXCZFAMKMFANWAKIBSDCQYDRZLKRQLZHALBVASSZGVVZKVWLCGEJLEBPJRADTFZY",
+    "otherAttributes": [
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "quantity",
+            "value": "737"
+        },
+        {
+            "name": "vendor",
+            "value": "GMZHCVDCBPHDUAVN"
+        }
+    ]
+}
+
+2023-11-04 03:18:10,903 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "142bd3c4-c315-4767-a4ca-93676f885116",
+    "widgetId": "527b991a-11b9-4906-bebd-0c6342c4dda4",
+    "owner": "Henry Hops",
+    "label": "LFEUZTSI",
+    "description": "NNACPJNWBIJNKYMUWYOOLQFWQCSLSBLMTESMHKOSUZO",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "562"
+        },
+        {
+            "name": "length",
+            "value": "225"
+        },
+        {
+            "name": "rating",
+            "value": "3.6835365"
+        },
+        {
+            "name": "price",
+            "value": "7.05"
+        },
+        {
+            "name": "note",
+            "value": "XPSYMTCWETSEIFFKAWFVHREDIOHXRJCYUFYCPILBJFBDFSEJSBZDDRSLLOYGGRPYJQLMPKYHNSYYDNDSXZCNIYYYGISHFKXOSNNPJBZUNKJBXURPFGMBOZTGWCLRFDVGYJOOCVPUISIKQQJJNVLIRUBLZVQESJQEHSMAYNZAYWVASIUGVYXSTHJODAIISAYOZSXUDACWHACLKDBKGPMWAKHZAYPBWLIQNNFHKXJJPHFEBGNBOSSCUCUAJZZQNYEARBQCKXTIBTIYRVTJRNOQIPKCWRVDGQWOIZJPBEFSEIBONMOTOFIVVRKWROEMDMTTUXCRQPHDCCAXPANJETFPFHKUGFWZUNDJNGGDFNILEGVTXGHVXPFBOAHNTMBSA"
+        }
+    ]
+}
+
+2023-11-04 03:18:11,064 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "142bd3c4-c315-4767-a4ca-93676f885116",
+    "widgetId": "527b991a-11b9-4906-bebd-0c6342c4dda4",
+    "owner": "Henry Hops",
+    "label": "LFEUZTSI",
+    "description": "NNACPJNWBIJNKYMUWYOOLQFWQCSLSBLMTESMHKOSUZO",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "562"
+        },
+        {
+            "name": "length",
+            "value": "225"
+        },
+        {
+            "name": "rating",
+            "value": "3.6835365"
+        },
+        {
+            "name": "price",
+            "value": "7.05"
+        },
+        {
+            "name": "note",
+            "value": "XPSYMTCWETSEIFFKAWFVHREDIOHXRJCYUFYCPILBJFBDFSEJSBZDDRSLLOYGGRPYJQLMPKYHNSYYDNDSXZCNIYYYGISHFKXOSNNPJBZUNKJBXURPFGMBOZTGWCLRFDVGYJOOCVPUISIKQQJJNVLIRUBLZVQESJQEHSMAYNZAYWVASIUGVYXSTHJODAIISAYOZSXUDACWHACLKDBKGPMWAKHZAYPBWLIQNNFHKXJJPHFEBGNBOSSCUCUAJZZQNYEARBQCKXTIBTIYRVTJRNOQIPKCWRVDGQWOIZJPBEFSEIBONMOTOFIVVRKWROEMDMTTUXCRQPHDCCAXPANJETFPFHKUGFWZUNDJNGGDFNILEGVTXGHVXPFBOAHNTMBSA"
+        }
+    ]
+}
+
+2023-11-04 03:18:11,134 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "df2ecb94-915e-4343-8614-db9ed1b3084a",
+    "widgetId": "088fbfb2-d91c-4bbe-a748-dd47e1a0af52",
+    "owner": "Mary Matthews",
+    "description": "VTUWXOAWXLYMIWJYBPHTKQIMGCKK",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size",
+            "value": "592"
+        },
+        {
+            "name": "height",
+            "value": "347"
+        },
+        {
+            "name": "length",
+            "value": "653"
+        },
+        {
+            "name": "rating",
+            "value": "3.9723098"
+        },
+        {
+            "name": "price",
+            "value": "28.41"
+        },
+        {
+            "name": "vendor",
+            "value": "PMTGRUMQ"
+        }
+    ]
+}
+
+2023-11-04 03:18:11,215 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "2f4045f5-976d-4a92-86f9-ab6e9600eee1",
+    "widgetId": "7de794eb-d4c3-4ba5-a710-4f7d86b89c1b",
+    "owner": "John Jones",
+    "label": "CXP",
+    "description": "ALSBCKVZFSYPOLFTZLOHJZCCQJ",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "yellow"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "82.31"
+        }
+    ]
+}
+
+2023-11-04 03:18:11,312 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "2f4045f5-976d-4a92-86f9-ab6e9600eee1",
+    "widgetId": "7de794eb-d4c3-4ba5-a710-4f7d86b89c1b",
+    "owner": "John Jones",
+    "label": "CXP",
+    "description": "ALSBCKVZFSYPOLFTZLOHJZCCQJ",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "yellow"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "price",
+            "value": "82.31"
+        }
+    ]
+}
+
+2023-11-04 03:18:11,375 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "a18da0c7-acdc-43ab-872b-72460baf1671",
+    "widgetId": "fb85ab40-e950-41c4-9f91-06e134eae77e",
+    "owner": "John Jones",
+    "label": "DXNXFC",
+    "description": "ZSGWMMKIUZRXSMEODWJNVUJVGZLLAHTCEYGCTDNFBULFXXYOCJQ",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size",
+            "value": "953"
+        },
+        {
+            "name": "height",
+            "value": "784"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "vendor",
+            "value": "RPFOMRCEHSQYORFIYV"
+        },
+        {
+            "name": "note",
+            "value": "QLDCPUTPEUTSXNWNUFDPVNHIDVTJKCXYWLHMNABAVVUCUIMYHEYQAVFTJZSMTLDCQEWVPOUZIMAJGHTUDXIPBDXCHUGXPHYBGSDDHFPXYPTCRLBKIKPYIHVHVVONNEMDWCSQCVFAAASOYDZOYYVBKXJSMKBRAVSHJGKZCTQUZJZFNQNQWPBEOSPKSBJTWSGWQHBNPAYSJRB"
+        }
+    ]
+}
+
+2023-11-04 03:18:11,463 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "a18da0c7-acdc-43ab-872b-72460baf1671",
+    "widgetId": "fb85ab40-e950-41c4-9f91-06e134eae77e",
+    "owner": "John Jones",
+    "label": "DXNXFC",
+    "description": "ZSGWMMKIUZRXSMEODWJNVUJVGZLLAHTCEYGCTDNFBULFXXYOCJQ",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "green"
+        },
+        {
+            "name": "size",
+            "value": "953"
+        },
+        {
+            "name": "height",
+            "value": "784"
+        },
+        {
+            "name": "height-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "vendor",
+            "value": "RPFOMRCEHSQYORFIYV"
+        },
+        {
+            "name": "note",
+            "value": "QLDCPUTPEUTSXNWNUFDPVNHIDVTJKCXYWLHMNABAVVUCUIMYHEYQAVFTJZSMTLDCQEWVPOUZIMAJGHTUDXIPBDXCHUGXPHYBGSDDHFPXYPTCRLBKIKPYIHVHVVONNEMDWCSQCVFAAASOYDZOYYVBKXJSMKBRAVSHJGKZCTQUZJZFNQNQWPBEOSPKSBJTWSGWQHBNPAYSJRB"
+        }
+    ]
+}
+
+2023-11-04 03:18:11,539 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "update",
+    "requestId": "b860b58f-a074-454e-ae5d-06e37e30d718",
+    "widgetId": "36af4ae8-ec09-4ffe-82e2-57b64865e2f6",
+    "owner": "Sue Smith",
+    "label": "JBKK",
+    "description": "GHKMRRDDOLJXTNNODXLSDEGVBLLBKZIEZFPBSLDRFZUTAAOJDMYLPVLHQZOBAPVFJSFNRIR",
+    "otherAttributes": [
+        {
+            "name": "color",
+            "value": "red"
+        },
+        {
+            "name": "size",
+            "value": "4"
+        },
+        {
+            "name": "height",
+            "value": "826"
+        },
+        {
+            "name": "width-unit",
+            "value": "cm"
+        },
+        {
+            "name": "length",
+            "value": "45"
+        },
+        {
+            "name": "price",
+            "value": "93.36"
+        }
+    ]
+}
+
+2023-11-04 03:18:11,632 - INFO - Origin: SQS queue https://sqs.us-east-1.amazonaws.com/265690602160/cs5260-requests
+Request Content: {
+    "type": "create",
+    "requestId": "047f0935-f283-4952-b7fa-567cd7592767",
+    "widgetId": "9f5371ac-6c5c-4884-854f-4651129f1972",
+    "owner": "Sue Smith",
+    "label": "DDNUNES",
+    "description": "DAKRPXOMAJERJOLWOSYRCASXMDDGEVU",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "36"
+        },
+        {
+            "name": "width",
+            "value": "310"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "3.6468089"
+        },
+        {
+            "name": "vendor",
+            "value": ""
+        },
+        {
+            "name": "note",
+            "value": "AJQMCHDXXRGJGUHDWQBLAVPNNOAQNYZGKSQAQDXTKSHCSGZSOKNKNFTHUJMTBFZMXARZSILSMSUBZCCQWOEOVZTWFRIEDJVLKUWBDPXOVCCTXUISWXOMMADEKRSFKYHWXPQTSQVFHOPQEMPPTHHXDWHBVWMVOQYRKDKYWSKEQXFEIGMWGMXLMVSQWWORKHHXVIOQQNMBEGVBJDCZXAMAWLNVHGGBZUKWHJMAAIXGTNQRGPFETBUNSWIYCYRCEZLSNWIBKVUMVEUKRFVVFUBCVVHQMKMFDAWUXXZQHNIDIIOGSQDHZRXJJYDJBOPKWNYWKZMMNVDJVFPLUVDIGPSKE"
+        }
+    ]
+}
+
+2023-11-04 03:18:11,776 - INFO - Destination: S3 bucket usu-cs5250-blue-dist
+Request Content: {
+    "type": "create",
+    "requestId": "047f0935-f283-4952-b7fa-567cd7592767",
+    "widgetId": "9f5371ac-6c5c-4884-854f-4651129f1972",
+    "owner": "Sue Smith",
+    "label": "DDNUNES",
+    "description": "DAKRPXOMAJERJOLWOSYRCASXMDDGEVU",
+    "otherAttributes": [
+        {
+            "name": "size",
+            "value": "36"
+        },
+        {
+            "name": "width",
+            "value": "310"
+        },
+        {
+            "name": "length-unit",
+            "value": "cm"
+        },
+        {
+            "name": "rating",
+            "value": "3.6468089"
+        },
+        {
+            "name": "vendor",
+            "value": ""
+        },
+        {
+            "name": "note",
+            "value": "AJQMCHDXXRGJGUHDWQBLAVPNNOAQNYZGKSQAQDXTKSHCSGZSOKNKNFTHUJMTBFZMXARZSILSMSUBZCCQWOEOVZTWFRIEDJVLKUWBDPXOVCCTXUISWXOMMADEKRSFKYHWXPQTSQVFHOPQEMPPTHHXDWHBVWMVOQYRKDKYWSKEQXFEIGMWGMXLMVSQWWORKHHXVIOQQNMBEGVBJDCZXAMAWLNVHGGBZUKWHJMAAIXGTNQRGPFETBUNSWIYCYRCEZLSNWIBKVUMVEUKRFVVFUBCVVHQMKMFDAWUXXZQHNIDIIOGSQDHZRXJJYDJBOPKWNYWKZMMNVDJVFPLUVDIGPSKE"
+        }
+    ]
+}
+
